@@ -1,0 +1,44 @@
+# File: A23.india_state_wind.csv
+# Title: India wind resources by state
+# Units: maxResource in EJ; Base Cost in 2007INR/kWh
+# Source: max resource CEEW's analysis available at https://www.ceew.in/sites/default/files/CEEW-A-Second-Wind-for-India-Wind-Energy-Sector-17July19.pdf
+# Column types: cnnnn
+# ----------
+region,maxResource,mid_price,curve_exponent,base_cost
+AP,0.86,1.11E-05,100,1
+AR,0.07,1.11E-05,100,1
+AS,0.17,1.11E-05,100,1
+BR,0.41,1.11E-05,100,1
+CG,0.83,1.11E-05,100,1
+DL,0,1.11E-05,100,1
+GA,0.02,1.11E-05,100,1
+GJ,1.08,1.11E-05,100,1
+HR,0.22,1.11E-05,100,1
+HP,0.21,1.11E-05,100,1
+JK,1.26,1.11E-05,100,1
+JH,1.03,1.11E-05,100,1
+KA,0.95,1.11E-05,100,1
+KL,0.07,1.11E-05,100,1
+MP,1.63,1.11E-05,100,1
+MH,1.84,1.11E-05,100,1
+MN,0.01,1.11E-05,100,1
+ML,0,1.11E-05,100,1
+MZ,0,1.11E-05,100,1
+NL,0,1.11E-05,100,1
+OD,0.78,1.11E-05,100,1
+PB,0.24,1.11E-05,100,1
+RJ,3.26,1.11E-05,100,1
+SK,0.02,1.11E-05,100,1
+TN,0.55,1.11E-05,100,1
+TS,0.59,1.11E-05,100,1
+TR,0.01,1.11E-05,100,1
+UP,1.1,1.11E-05,100,1
+UK,0.14,1.11E-05,100,1
+WB,0.34,1.11E-05,100,1
+AN,0,1.11E-05,100,1
+CH,0,1.11E-05,100,1
+DD,0,1.11E-05,100,1
+DN,0,1.11E-05,100,1
+LA,0,1.11E-05,100,1
+LD,0,1.11E-05,100,1
+PC,0,1.11E-05,100,1
