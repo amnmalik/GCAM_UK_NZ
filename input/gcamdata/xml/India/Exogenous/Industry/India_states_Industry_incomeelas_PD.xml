@@ -6291,7 +6291,7 @@
                 <income-elasticity year="2020">0.602222624</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Non-Ferrous Metals">
-                <income-elasticity year="2015">3</income-elasticity>
+                <income-elasticity year="2015">-3</income-elasticity>
                 <income-elasticity year="2025">0.834304677</income-elasticity>
                 <income-elasticity year="2030">0.806915632</income-elasticity>
                 <income-elasticity year="2035">0.794203097</income-elasticity>
@@ -6311,7 +6311,7 @@
                 <income-elasticity year="2020">0.76</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Other Industries">
-                <income-elasticity year="2015">0.77</income-elasticity>
+                <income-elasticity year="2015">-8</income-elasticity>
                 <income-elasticity year="2025">0.834304677</income-elasticity>
                 <income-elasticity year="2030">0.806915632</income-elasticity>
                 <income-elasticity year="2035">0.794203097</income-elasticity>
@@ -6331,7 +6331,7 @@
                 <income-elasticity year="2020">0.632333755</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Paper and Pulp">
-                <income-elasticity year="2015">3</income-elasticity>
+                <income-elasticity year="2015">-3</income-elasticity>
                 <income-elasticity year="2025">0.834304677</income-elasticity>
                 <income-elasticity year="2030">0.806915632</income-elasticity>
                 <income-elasticity year="2035">0.794203097</income-elasticity>
