@@ -10603,7 +10603,7 @@
                     <interpolation-rule apply-to="share-weight"
                         from-year="2010" to-year="2015">
                         <from-value>0</from-value>
-                        <to-value>0</to-value>
+                        <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
