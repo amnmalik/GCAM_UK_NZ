@@ -183,7 +183,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">BAU Industry </Value>
+		<Value name="scenarioName">BAU Building with refined liquids</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
