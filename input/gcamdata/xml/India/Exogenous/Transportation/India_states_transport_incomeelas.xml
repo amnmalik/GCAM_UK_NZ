@@ -2151,7 +2151,7 @@
                 <income-elasticity year="2100">0.8</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="trn_pass">
-                <income-elasticity year="2015">1.25</income-elasticity>
+                <income-elasticity year="2015">1</income-elasticity>
                 <income-elasticity year="2020">0.4809375</income-elasticity>
                 <income-elasticity year="2025">1</income-elasticity>
                 <income-elasticity year="2030">1</income-elasticity>

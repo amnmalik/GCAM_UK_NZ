@@ -178,12 +178,12 @@
 
 		<!--Value name = "Exo Flrspc">../input/gcamdata/xml/India/Exogenous/Building/Bld_exo_flrspc.xml</Value-->
        <!--Value name = "Bld_tech_Shareweights">../input/gcamdata/xml/India/Exogenous/Building/Building_floorspace_new.xml</Value-->
-
+       <Value name = "Transport_Shareweights_UK">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_UK.xml</Value>
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">BAU Building with refined liquids</Value>
+		<Value name="scenarioName">BAU changing income elesticity</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
