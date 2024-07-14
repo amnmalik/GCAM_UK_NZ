@@ -19,28 +19,27 @@ Didn't find builder for profit rate query going to use defaults
 Didn't find builder for profit rate in a specified land use region query going to use defaults
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=1711407739]/text()
-Time : 10
-About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
-Time : 3
-About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-966108851]/text()
+Time : 16
+About to perform query: collection()/singleQueryListCache/cache[@id=1614711303]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1406594184]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-985986238]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=143289648]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=452385122]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1557535450]/text()
-Time : 7
-About to perform query: collection()/singleQueryListCache/cache[@id=-1013073716]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=1098400260]/text()
+Time : 16
+About to perform query: collection()/singleQueryListCache/cache[@id=481761702]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1895300858]/text()
-Time : 2
-Before Function: 1720459041376
-About to perform query: collection()/scenario[ (@name='BAU changing income elesticity' and @date='2024-8-7T22:23:25+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
-               *[@type='subsector']//*[@type='input' and not (@name='renewable')]/
-               demand-physical[@unit='EJ']/node()
-In Function: 1720459041376
-After build Tree: 1720459041406
-After Add table: 1720459041406
+About to perform query: collection()/singleQueryListCache/cache[@id=-1598580780]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=1767363069]/text()
+Time : 0
+Before Function: 1720908710477
+About to perform query: collection()/scenario[ (@name='BAU_2015 _Demand_supply_done' and @date='2024-14-7T03:17:56-018:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='building' or (exists(child::keyword[@final-energy='building'])))]/
+               *[@type='subsector']//*[@type='input' (:collapse:)]/demand-physical/node()
+In Function: 1720908710477
+After build Tree: 1720908710500
+After Add table: 1720908710500
 Caught the window closing
 Doing remove because of control
