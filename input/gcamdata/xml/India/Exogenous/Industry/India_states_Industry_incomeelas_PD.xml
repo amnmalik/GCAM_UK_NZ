@@ -6328,7 +6328,7 @@
                 <income-elasticity year="2090">0.583604967</income-elasticity>
                 <income-elasticity year="2095">0.562443669</income-elasticity>
                 <income-elasticity year="2100">0.541469544</income-elasticity>
-                <income-elasticity year="2020">0.632333755</income-elasticity>
+                <income-elasticity year="2020">1.3</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Paper and Pulp">
                 <income-elasticity year="2015">-3</income-elasticity>
@@ -6348,7 +6348,7 @@
                 <income-elasticity year="2090">0.583604967</income-elasticity>
                 <income-elasticity year="2095">0.562443669</income-elasticity>
                 <income-elasticity year="2100">0.541469544</income-elasticity>
-                <income-elasticity year="2020">0.76</income-elasticity>
+                <income-elasticity year="2020">0.3</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Food Processing">
                 <income-elasticity year="2015">0.3</income-elasticity>
@@ -6368,7 +6368,7 @@
                 <income-elasticity year="2090">0.583604967</income-elasticity>
                 <income-elasticity year="2095">0.562443669</income-elasticity>
                 <income-elasticity year="2100">0.541469544</income-elasticity>
-                <income-elasticity year="2020">0.205303168</income-elasticity>
+                <income-elasticity year="2020">-3.5</income-elasticity>
             </energy-final-demand>
         </region>
         <region name="UP">
