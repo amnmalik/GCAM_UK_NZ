@@ -19,164 +19,44 @@ Didn't find builder for profit rate query going to use defaults
 Didn't find builder for profit rate in a specified land use region query going to use defaults
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=1968388287]/text()
-Time : 6
-About to perform query: collection()/singleQueryListCache/cache[@id=-966108851]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1614711303]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-985986238]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=452385122]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1406594184]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=143289648]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-140439322]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-242370922]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1201469377]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1641629768]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-2114901646]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1253419098]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-162686648]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=156988531]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1489318421]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1598970354]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-301614987]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-438807881]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1710049719]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1097861577]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=2057555511]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-2029295435]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1098497079]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=317510263]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1359553293]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=54601990]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1433692290]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=1888147138]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1747100736]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1144453950]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1176933182]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-2054634430]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=379078978]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1983981995]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=696442347]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1215066645]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1201598571]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1704619127]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-314031829]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-178848755]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-1131916273]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1855082820]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=183908599]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1976230746]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=606584929]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-2079682305]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1826020088]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1527850111]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1870492418]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-3460324]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1816750358]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=2070459443]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-1762434599]/text()
 Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=-1320305973]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-2111477344]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-156848969]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=2070459443]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-603430981]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-1032290213]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1984330026]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-782562353]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=469684938]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1098419434]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-263267459]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1033755225]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-419326178]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=337617068]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1734806933]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-565396381]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-376810757]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=576964927]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1767363069]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1767363069]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1598580780]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=1127998875]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=481761702]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1098400260]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=2005738049]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-90187403]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=1057439673]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-173564921]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-155368294]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1711407739]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=-350292947]/text()
+Time : 15
+About to perform query: collection()/singleQueryListCache/cache[@id=35282157]/text()
 Time : 0
-Before Function: 1722921411310
-About to perform query: collection()/scenario[ (@name='BAU_2100' and @date='2024-6-8T10:12:38+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='building' or (exists(child::keyword[@final-energy='building'])))]/
-               *[@type='subsector']/*[@type='technology']/*[@type='input']/
-               demand-physical/node()
-In Function: 1722921411311
-After build Tree: 1722921411391
-After Add table: 1722921411391
+About to perform query: collection()/singleQueryListCache/cache[@id=788658499]/text()
+Time : 0
+Before Function: 1722931636094
+About to perform query: collection()/scenario[ (@name='BAU_2100' and @date='2024-6-8T12:36:52+05:30') ]/world/region[ (@name='UK') ]/demographics/populationMiniCAM/total-population/node()
+In Function: 1722931636094
+After build Tree: 1722931636094
+After Add table: 1722931636094
+Before Function: 1722931643903
+About to perform query: collection()/scenario[ (@name='BAU_2100' and @date='2024-6-8T12:36:52+05:30') ]/world/region[ (@name='UK') ]/GDP/gdp-mer/text()
+In Function: 1722931643903
+After build Tree: 1722931643924
+After Add table: 1722931643924
 Caught the window closing
+Doing remove because of control
 Doing remove because of control

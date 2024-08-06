@@ -3975,7 +3975,7 @@
                     <totalPop>12974</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2040">
-                    <totalPop>13437</totalPop>
+                    <totalPop>13058</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2045">
                     <totalPop>13805</totalPop>
@@ -4025,7 +4025,7 @@
                 <laborforce year="2025">0.2982</laborforce>
                 <laborforce year="2030">0.30185</laborforce>
                 <laborforce year="2035">0.3073</laborforce>
-                <laborforce year="2040">0.3161</laborforce>
+                <laborforce year="2040">0.325</laborforce>
                 <laborforce year="2045">0.31</laborforce>
                 <laborforce year="2050">0.30415</laborforce>
                 <laborforce year="2055">0.2845</laborforce>
