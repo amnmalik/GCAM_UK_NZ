@@ -99,7 +99,8 @@
 		<!--Value name = "bld">../input/gcamdata/xml/India/building_india_NewPD.xml</Value-->
 		<Value name = "bld">../input/gcamdata/xml/India/building_india.xml</Value>
         <Value name = "bld">../input/gcamdata/xml/India/HDDCDD_constdds_india.xml</Value>
-		
+		<Value name = "bld">../input/gcamdata/xml/India/Exogenous/HDDCDD_constdds_UK.xml</Value>
+
         <!--Value name = "trn_India">../input/gcamdata/xml/India/RJNZ2070/HH/transportation_India.xml</Value-->
         <Value name = "trn_India">../input/gcamdata/xml/India/transportation_India.xml</Value>		
 
@@ -207,8 +208,8 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">10</Value>
-		<Value name="restart-period">7</Value>
+		<Value name="stop-period">21</Value>
+		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
 	</Doubles>
