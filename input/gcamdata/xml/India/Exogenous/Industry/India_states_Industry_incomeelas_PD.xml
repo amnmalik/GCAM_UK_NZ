@@ -6248,7 +6248,7 @@
                 <income-elasticity year="2090">0.583604967</income-elasticity>
                 <income-elasticity year="2095">0.562443669</income-elasticity>
                 <income-elasticity year="2100">0.541469544</income-elasticity>
-                <income-elasticity year="2020">0.333617648</income-elasticity>
+                <income-elasticity year="2020">-6</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Fisheries">
                 <income-elasticity year="2015">0.550997011</income-elasticity>
@@ -6288,7 +6288,7 @@
                 <income-elasticity year="2090">0.583604967</income-elasticity>
                 <income-elasticity year="2095">0.562443669</income-elasticity>
                 <income-elasticity year="2100">0.541469544</income-elasticity>
-                <income-elasticity year="2020">0.602222624</income-elasticity>
+                <income-elasticity year="2020">0.5</income-elasticity>
             </energy-final-demand>
             <energy-final-demand name="Non-Ferrous Metals">
                 <income-elasticity year="2015">-8</income-elasticity>
@@ -6368,7 +6368,7 @@
                 <income-elasticity year="2090">0.583604967</income-elasticity>
                 <income-elasticity year="2095">0.562443669</income-elasticity>
                 <income-elasticity year="2100">0.541469544</income-elasticity>
-                <income-elasticity year="2020">-3.5</income-elasticity>
+                <income-elasticity year="2020">-4</income-elasticity>
             </energy-final-demand>
         </region>
         <region name="UP">
