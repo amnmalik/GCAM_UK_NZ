@@ -10467,15 +10467,15 @@
                 </subsector>
                 <subsector name="solar">
                     <interpolation-rule apply-to="share-weight"
-                        from-year="2010" to-year="2020">
+                        from-year="2010" to-year="2015">
                         <from-value>0</from-value>
                         <to-value>0</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2025">
-                        <from-value>0</from-value>
-                        <to-value>0</to-value>
+                        <from-value>0.5</from-value>
+                        <to-value>0.5</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                     <interpolation-rule apply-to="share-weight"
