@@ -2083,8 +2083,8 @@
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2100">
-                            <from-value>1</from-value>
-                            <to-value>1</to-value>
+                            <from-value>1.01</from-value>
+                            <to-value>1.01</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -2095,6 +2095,36 @@
                             from-year="2010" to-year="2100">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            <subsector name="solar">
+                    <technology name="PV">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0.007</from-value>
+                            <to-value>0.007</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids">
+                    <technology name="refined liquids (steam/CT)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>1.5</from-value>
+                            <to-value>1.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="biomass">
+                    <technology name="biomass (conv)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2020">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
