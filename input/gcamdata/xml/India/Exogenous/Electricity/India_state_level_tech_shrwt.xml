@@ -1678,7 +1678,25 @@
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
-                </subsector>
+               <technology name="coal (IGCC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                  </subsector>
+                <subsector name="refined liquids">
+                    <technology name="refined liquids (steam/CT)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>2</from-value>
+                            <to-value>2</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                   </subsector>
             </supplysector>
         </region>
         <region name="PC">
@@ -2082,9 +2100,15 @@
                 <subsector name="gas">
                     <technology name="gas (CC)">
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2010" to-year="2100">
+                            from-year="2010" to-year="2015">
                             <from-value>1.01</from-value>
                             <to-value>1.01</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                      <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>1.1</from-value>
+                            <to-value>1.1</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -2101,10 +2125,16 @@
                 </subsector>
             <subsector name="solar">
                     <technology name="PV">
+                    <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0.01</from-value>
+                            <to-value>0.01</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2010" to-year="2100">
-                            <from-value>0.007</from-value>
-                            <to-value>0.007</to-value>
+                            from-year="2015" to-year="2100">
+                            <from-value>0.000000001</from-value>
+                            <to-value>0.000000001</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                     </technology>
@@ -2117,7 +2147,21 @@
                             <to-value>1.5</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
+                     <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
                     </technology>
+                    <technology name="refined liquids (CC)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>0.000000000001</from-value>
+                            <to-value>0.000000000001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        </technology>
                 </subsector>
                 <subsector name="biomass">
                     <technology name="biomass (conv)">

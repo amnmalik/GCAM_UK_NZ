@@ -20,13 +20,126 @@ Didn't find builder for profit rate in a specified land use region query going t
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 About to perform query: collection()/singleQueryListCache/cache[@id=118729936]/text()
-Time : 8
-Before Function: 1725604628782
-About to perform query: collection()/scenario[ (@name='Supply 2020' and @date='2024-6-9T11:55:28+05:30') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
+Time : 0
+Before Function: 1725909425731
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:39:14-019:30') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
                *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
                physical-output/node()
-In Function: 1725604628782
-After build Tree: 1725604628799
-After Add table: 1725604628799
+In Function: 1725909425731
+After build Tree: 1725909425747
+After Add table: 1725909425747
+Before Function: 1725909434020
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
+               physical-output/node()
+In Function: 1725909434020
+After build Tree: 1725909434035
+After Add table: 1725909434035
+Before Function: 1725909502435
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UP') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
+               physical-output/node()
+In Function: 1725909502435
+After build Tree: 1725909502450
+After Add table: 1725909502450
+About to perform query: collection()/singleQueryListCache/cache[@id=-1209976151]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1785151484]/text()
+Time : 0
+Before Function: 1725909526752
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UP') ]/ *[@type='sector' and (@name='electricity' or @name='elect_td_bld' or
+                  contains(@name,'elec_')) and not(contains(@name, 'water_td'))]/
+                  *[@type='subsector' and not (@name='elect_td_bld')]/
+                  *[@type='technology' and not(@name='biomass (conv)' or @name='biomass (conv CCS)' or @name='biomass (IGCC)' or @name='biomass (IGCC CCS)'
+                                   or @name='coal (conv pul)' or @name='coal (conv pul CCS)' or @name='coal (IGCC)' or @name='coal (IGCC CCS)'
+                                   or @name='gas (steam/CT)' or @name='gas (CC)' or @name='gas (CC CCS)'
+                                   or @name='refined liquids (steam/CT)' or @name='refined liquids (CC)' or @name='refined liquids (CC CCS)'
+                                   or @name='geothermal' or @name='Gen_II_LWR' or @name='Gen_III'
+                                   or @name='CSP' or @name='CSP_storage')]/
+                  *[@type='output']/physical-output/node()
+               
+In Function: 1725909526752
+After build Tree: 1725909526752
+After Add table: 1725909526752
+About to perform query: collection()/singleQueryListCache/cache[@id=-638751883]/text()
+Time : 0
+Before Function: 1725909532234
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UP') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld' or
+                  contains(@name,'elec_')) and not(contains(@name, 'water_td'))]/
+                  *[@type='subsector' and not (@name='elect_td_bld')]/
+                  *[@type='technology']/
+                  *[@type='output']/physical-output/node()
+               
+In Function: 1725909532234
+After build Tree: 1725909532234
+After Add table: 1725909532234
+About to perform query: collection()/singleQueryListCache/cache[@id=282351080]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-740614321]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1014615111]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1014615111]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=1386213466]/text()
+Time : 16
+About to perform query: collection()/singleQueryListCache/cache[@id=1888165601]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1762434599]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=1968388287]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=948733666]/text()
+Time : 7
+About to perform query: collection()/singleQueryListCache/cache[@id=-2088989805]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-724558790]/text()
+Time : 0
+Before Function: 1725909620696
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UP') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='subsector' and not (@name='elect_td_bld')]/
+               *[@type='technology']/share-weight/node()
+In Function: 1725909620696
+After build Tree: 1725909620696
+After Add table: 1725909620696
+Before Function: 1725909998683
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UP') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='subsector' and not (@name='elect_td_bld')]/
+               share-weight/text()
+In Function: 1725909998684
+After build Tree: 1725909998692
+After Add table: 1725909998692
+Before Function: 1725910016062
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='subsector' and not (@name='elect_td_bld')]/
+               share-weight/text()
+In Function: 1725910016062
+After build Tree: 1725910016072
+After Add table: 1725910016072
+Before Function: 1725910031323
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='subsector' and not (@name='elect_td_bld')]/
+               *[@type='technology']/share-weight/node()
+In Function: 1725910031324
+After build Tree: 1725910031333
+After Add table: 1725910031333
+Before Function: 1725910097457
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T00:14:22-018:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and
+               (@name='electricity' or @name='elect_td_bld' or @name='industrial energy use')]/
+               *[@type='subsector']/*[@type='technology' and not (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='output' and (@name='electricity' or @name='elect_td_bld')]/
+               physical-output/node()
+In Function: 1725910097457
+After build Tree: 1725910097466
+After Add table: 1725910097466
 Caught the window closing
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
+Doing remove because of control
 Doing remove because of control
