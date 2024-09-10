@@ -1,4 +1,4 @@
-<scenario name="Suppy 2020 cc refined " date="2024-10-9T14:13:01+06:030">
+<scenario name="Suppy 2020 cc refined " date="2024-10-9T23:40:04+05:30">
 	<modeltime>
 		<start-year time-step="15">1975</start-year>
 		<final-calibration-year>2010</final-calibration-year>
@@ -88434,9 +88434,9 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>coal</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
-				<price>0.519203</price>
-				<demand>162.046</demand>
-				<supply>162.046</supply>
+				<price>0.519201</price>
+				<demand>162.044</demand>
+				<supply>162.044</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -88496,9 +88496,9 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>crude oil</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
-				<price>3.27791</price>
-				<demand>171.057</demand>
-				<supply>171.057</supply>
+				<price>3.27793</price>
+				<demand>171.059</demand>
+				<supply>171.059</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -88559,8 +88559,8 @@
 				<MarketGoodOrFuel>natural gas</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
 				<price>1.45756</price>
-				<demand>126.623</demand>
-				<supply>126.623</supply>
+				<demand>126.621</demand>
+				<supply>126.621</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -88621,8 +88621,8 @@
 				<MarketGoodOrFuel>uranium</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
 				<price>49.9137</price>
-				<demand>0.0740206</demand>
-				<supply>0.0740206</supply>
+				<demand>0.0740199</demand>
+				<supply>0.0740199</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -88683,8 +88683,8 @@
 				<MarketGoodOrFuel>global solar resource</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
 				<price>0.001</price>
-				<demand>0.262028</demand>
-				<supply>0.262028</supply>
+				<demand>0.26202</demand>
+				<supply>0.26202</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -88729,8 +88729,8 @@
 				<MarketGoodOrFuel>limestone</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
 				<price>0.001</price>
-				<demand>5116.27</demand>
-				<supply>5116.27</supply>
+				<demand>5116.28</demand>
+				<supply>5116.28</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -88860,9 +88860,9 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>Residue</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
-				<price>0.00224778</price>
-				<demand>457.36</demand>
-				<supply>457.36</supply>
+				<price>0.00224779</price>
+				<demand>457.361</demand>
+				<supply>457.361</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -88925,9 +88925,9 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>Scavenging_Other_Rsrc</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
-				<price>0.00268929</price>
-				<demand>604.129</demand>
-				<supply>604.129</supply>
+				<price>0.0026893</price>
+				<demand>604.13</demand>
+				<supply>604.13</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -89036,8 +89036,8 @@
 				<MarketGoodOrFuel>misc emissions sources</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
 				<price>0</price>
-				<demand>0.428999</demand>
-				<supply>0.428999</supply>
+				<demand>0.429</demand>
+				<supply>0.429</supply>
 				<ContainedRegion>USA</ContainedRegion>
 				<ContainedRegion>Africa_Eastern</ContainedRegion>
 				<ContainedRegion>Africa_Northern</ContainedRegion>
@@ -96366,7 +96366,7 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>Forest</MarketGoodOrFuel>
 				<MarketRegion>global</MarketRegion>
-				<price>54.0562</price>
+				<price>54.0563</price>
 				<demand>3.60734</demand>
 				<supply>3.60734</supply>
 				<ContainedRegion>USA</ContainedRegion>
@@ -99396,9 +99396,9 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>onshore wind resource</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.000941914</price>
-				<demand>0.00165197</demand>
-				<supply>0.00165197</supply>
+				<price>0.000941913</price>
+				<demand>0.00165182</demand>
+				<supply>0.00165182</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 					<Pair>
@@ -99466,9 +99466,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>oil refining</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>4.54937</price>
-				<demand>0.200631</demand>
-				<supply>0.200631</supply>
+				<price>4.54939</price>
+				<demand>0.200718</demand>
+				<supply>0.200718</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 					<Pair>
@@ -99492,9 +99492,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>biomass liquids</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>5.92046</price>
-				<demand>0.000349836</demand>
-				<supply>0.000349836</supply>
+				<price>5.93296</price>
+				<demand>0.00035107</demand>
+				<supply>0.00035107</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 					<Pair>
@@ -99571,8 +99571,8 @@
 				<MarketGoodOrFuel>electricity</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
 				<price>2.9715</price>
-				<demand>0.232337</demand>
-				<supply>0.232337</supply>
+				<demand>0.232332</demand>
+				<supply>0.232332</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99592,9 +99592,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>elect_td_res</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>3.59312</price>
-				<demand>0.0489677</demand>
-				<supply>0.0489677</supply>
+				<price>3.59311</price>
+				<demand>0.0489702</demand>
+				<supply>0.0489702</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99603,9 +99603,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>elect_td_com</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>6.55205</price>
-				<demand>0.0261698</demand>
-				<supply>0.0261698</supply>
+				<price>6.55204</price>
+				<demand>0.0261697</demand>
+				<supply>0.0261697</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99615,8 +99615,8 @@
 				<MarketGoodOrFuel>elect_td_ind</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
 				<price>4.74893</price>
-				<demand>0.107776</demand>
-				<supply>0.107776</supply>
+				<demand>0.107778</demand>
+				<supply>0.107778</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99625,9 +99625,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>elect_td_trn</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>6.55208</price>
-				<demand>0.00642673</demand>
-				<supply>0.00642673</supply>
+				<price>6.55207</price>
+				<demand>0.00642719</demand>
+				<supply>0.00642719</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99636,7 +99636,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>Agriculture_enuse</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>2.86873</price>
+				<price>2.86866</price>
 				<demand>0.0154271</demand>
 				<supply>0.0154271</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99658,7 +99658,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>Chem_Fert_fsuse</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>1.22254</price>
+				<price>1.22268</price>
 				<demand>0.0197358</demand>
 				<supply>0.0197358</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99669,9 +99669,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>Fisheries_enuse</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>5.30265</price>
-				<demand>0.00145091</demand>
-				<supply>0.00145091</supply>
+				<price>5.30377</price>
+				<demand>0.00145088</demand>
+				<supply>0.00145088</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99724,7 +99724,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>Other Industries_enuse</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>1721.77</price>
+				<price>1721.76</price>
 				<demand>0.165407</demand>
 				<supply>0.165407</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99735,7 +99735,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>Other Industries_fsuse</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>1.54346</price>
+				<price>1.54419</price>
 				<demand>0.0964096</demand>
 				<supply>0.0964096</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99757,9 +99757,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>Fisheries</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>49.9275</price>
-				<demand>0.00145091</demand>
-				<supply>0.00145091</supply>
+				<price>49.9287</price>
+				<demand>0.00145088</demand>
+				<supply>0.00145088</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99889,7 +99889,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>resid rural coolers</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>4.51353</price>
+				<price>4.51352</price>
 				<demand>0.000123987</demand>
 				<supply>0.000123987</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99912,8 +99912,8 @@
 				<MarketGoodOrFuel>resid rural lighting</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
 				<price>1.47781</price>
-				<demand>0.0589458</demand>
-				<supply>0.0589458</supply>
+				<demand>0.0589459</demand>
+				<supply>0.0589459</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99923,8 +99923,8 @@
 				<MarketGoodOrFuel>resid urban lighting</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
 				<price>1.47781</price>
-				<demand>0.0897151</demand>
-				<supply>0.0897151</supply>
+				<demand>0.0897152</demand>
+				<supply>0.0897152</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99933,7 +99933,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>resid rural space heating</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>4.67494</price>
+				<price>4.67493</price>
 				<demand>0.000457949</demand>
 				<supply>0.000457949</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99944,7 +99944,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>resid urban space heating</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>8.84005</price>
+				<price>8.84004</price>
 				<demand>5.0436e-06</demand>
 				<supply>5.0436e-06</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99966,7 +99966,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>resid urban cooking</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>4.45147</price>
+				<price>4.45142</price>
 				<demand>0.0127706</demand>
 				<supply>0.0127706</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -99977,9 +99977,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>resid rural apploth</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>12.956</price>
-				<demand>0.00995396</demand>
-				<supply>0.00995396</supply>
+				<price>12.9736</price>
+				<demand>0.00994422</demand>
+				<supply>0.00994422</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -99988,9 +99988,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>resid urban apploth</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>8.29302</price>
-				<demand>0.0161222</demand>
-				<supply>0.0161222</supply>
+				<price>8.30479</price>
+				<demand>0.0161127</demand>
+				<supply>0.0161127</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100021,7 +100021,7 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>comm ref</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>43.6437</price>
+				<price>43.6436</price>
 				<demand>0.000303765</demand>
 				<supply>0.000303765</supply>
 				<ContainedRegion>WB</ContainedRegion>
@@ -100032,9 +100032,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>comm others</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>21.0968</price>
-				<demand>0.0414711</demand>
-				<supply>0.0414711</supply>
+				<price>21.0961</price>
+				<demand>0.041472</demand>
+				<supply>0.041472</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100043,9 +100043,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>comm cooking</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>6.49031</price>
-				<demand>0.00284956</demand>
-				<supply>0.00284956</supply>
+				<price>6.49122</price>
+				<demand>0.00284946</demand>
+				<supply>0.00284946</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100054,9 +100054,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_aviation_intl</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0755164</price>
-				<demand>499.218</demand>
-				<supply>499.218</supply>
+				<price>0.0755209</price>
+				<demand>499.189</demand>
+				<supply>499.189</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100065,9 +100065,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_freight</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.014309</price>
-				<demand>97017.1</demand>
-				<supply>97017.1</supply>
+				<price>0.0143099</price>
+				<demand>97013.3</demand>
+				<supply>97013.3</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100076,9 +100076,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_freight_road</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0180971</price>
-				<demand>39482</demand>
-				<supply>39482</supply>
+				<price>0.0181002</price>
+				<demand>39472.9</demand>
+				<supply>39472.9</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100087,9 +100087,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_pass</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0488361</price>
-				<demand>260950</demand>
-				<supply>260950</supply>
+				<price>0.0488365</price>
+				<demand>260948</demand>
+				<supply>260948</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100098,9 +100098,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_pass_road</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0863406</price>
-				<demand>71853.7</demand>
-				<supply>71853.7</supply>
+				<price>0.0863447</price>
+				<demand>71848.5</demand>
+				<supply>71848.5</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100109,9 +100109,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_pass_road_LDV</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0977985</price>
-				<demand>52643.9</demand>
-				<supply>52643.9</supply>
+				<price>0.097804</price>
+				<demand>52638.9</demand>
+				<supply>52638.9</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100120,9 +100120,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_pass_road_LDV_2W</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0388109</price>
-				<demand>37041.9</demand>
-				<supply>37041.9</supply>
+				<price>0.0388123</price>
+				<demand>37038</demand>
+				<supply>37038</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100131,9 +100131,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_shipping_intl</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.00217585</price>
-				<demand>408.244</demand>
-				<supply>408.244</supply>
+				<price>0.00217611</price>
+				<demand>408.212</demand>
+				<supply>408.212</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100142,9 +100142,9 @@
 				<solved_Market_Flag>0</solved_Market_Flag>
 				<MarketGoodOrFuel>trn_pass_road_LDV_4W</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.259278</price>
-				<demand>12047.7</demand>
-				<supply>12047.7</supply>
+				<price>0.259282</price>
+				<demand>12047.2</demand>
+				<supply>12047.2</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
 				</Info>
@@ -100296,8 +100296,8 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>comm-internal-gains-trial-market-trial-supply</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.00374144</price>
-				<demand>0.00374144</demand>
+				<price>0.00374163</price>
+				<demand>0.00374163</demand>
 				<supply>0</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
@@ -100307,8 +100307,8 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>resid urban-internal-gains-trial-market-trial-supply</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0500309</price>
-				<demand>0.0500309</demand>
+				<price>0.0500303</price>
+				<demand>0.0500303</demand>
 				<supply>0</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
@@ -100318,8 +100318,8 @@
 				<solved_Market_Flag>1</solved_Market_Flag>
 				<MarketGoodOrFuel>resid rural-internal-gains-trial-market-trial-supply</MarketGoodOrFuel>
 				<MarketRegion>WB</MarketRegion>
-				<price>0.0296553</price>
-				<demand>0.0296553</demand>
+				<price>0.0296545</price>
+				<demand>0.0296545</demand>
 				<supply>0</supply>
 				<ContainedRegion>WB</ContainedRegion>
 				<Info>
@@ -100346,7 +100346,7 @@
 					<base-value>4.66433</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.200631</output>
+				<output>0.200718</output>
 				<fixed-output>0.193585</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -100360,8 +100360,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.223562</input>
-					<output>0.200631</output>
+					<input>0.223656</input>
+					<output>0.200718</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -100372,7 +100372,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>50</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.66565</cost>
+						<cost>4.66566</cost>
 						<pMultiplier>1</pMultiplier>
 						<CalDataOutput>
 							<calOutputValue>0.194917</calOutputValue>
@@ -100433,7 +100433,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.54937</cost>
+						<cost>4.54939</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_ind">
 							<coefficient>0.005</coefficient>
@@ -100442,7 +100442,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.005</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>3.52279e-05</physical-demand>
+							<physical-demand>3.56648e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-energy-input name="regional oil">
@@ -100452,7 +100452,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.055</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.0074331</physical-demand>
+							<physical-demand>0.00752527</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-energy-input name="wholesale gas">
@@ -100462,7 +100462,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.018</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>0.000126821</physical-demand>
+							<physical-demand>0.000128393</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -100478,11 +100478,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="oil refining">
-							<output>0.00704559</output>
+							<output>0.00713296</output>
 							<cached-co2-coef>19.6</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.009396</emission>
+							<emission>0.00951252</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -100497,7 +100497,7 @@
 					<base-value>8.80547</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.000349836</output>
+				<output>0.00035107</output>
 				<fixed-output>2.7697e-05</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -100511,8 +100511,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000458648</input>
-					<output>0.000349836</output>
+					<input>0.000460324</input>
+					<output>0.00035107</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -100523,7 +100523,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>8.83347</cost>
+						<cost>8.8321</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>2.057</coefficient>
@@ -100561,7 +100561,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>8.63257</cost>
+						<cost>8.6312</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>2.057</coefficient>
@@ -100598,7 +100598,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>9.24845</cost>
+						<cost>9.24702</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>2.139</coefficient>
@@ -100681,7 +100681,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>11.354</cost>
+						<cost>11.3525</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>2.263</coefficient>
@@ -100764,7 +100764,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>11.7047</cost>
+						<cost>11.7034</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>1.961</coefficient>
@@ -100802,7 +100802,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>11.374</cost>
+						<cost>11.3727</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>1.961</coefficient>
@@ -100839,7 +100839,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>12.5746</cost>
+						<cost>12.5732</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>2.039</coefficient>
@@ -100922,7 +100922,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>13.2678</cost>
+						<cost>13.2663</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomass">
 							<coefficient>2.157</coefficient>
@@ -101005,7 +101005,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.1418</cost>
+						<cost>6.15188</cost>
 						<pMultiplier>1</pMultiplier>
 						<CalDataOutput>
 							<calOutputValue>2.82e-05</calOutputValue>
@@ -101066,7 +101066,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.1418</cost>
+						<cost>6.15188</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_ind">
 							<coefficient>0.026</coefficient>
@@ -101075,7 +101075,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.026</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>7.20186e-06</physical-demand>
+							<physical-demand>7.23566e-06</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-energy-input name="regional corn for ethanol">
@@ -101085,7 +101085,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000276994</physical-demand>
+							<physical-demand>0.000278295</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-energy-input name="wholesale gas">
@@ -101095,7 +101095,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.318</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>8.80842e-05</physical-demand>
+							<physical-demand>8.84977e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -101111,11 +101111,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="biomass liquids">
-							<output>0.000276994</output>
+							<output>0.000278295</output>
 							<cached-co2-coef>19.6</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0012508</emission>
+							<emission>0.00125667</emission>
 						</CO2>
 					</technology>
 					<technology year="2010" name="biodiesel">
@@ -101123,7 +101123,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.56234</cost>
+						<cost>4.58143</cost>
 						<pMultiplier>1</pMultiplier>
 						<CalDataOutput>
 							<calOutputValue>0</calOutputValue>
@@ -101174,7 +101174,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.56234</cost>
+						<cost>4.58143</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional biomassOil">
 							<coefficient>1.0309</coefficient>
@@ -101183,7 +101183,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.0309</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>4.65392e-05</physical-demand>
+							<physical-demand>4.64715e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-energy-input name="wholesale gas">
@@ -101193,7 +101193,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.05767</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>2.60347e-06</physical-demand>
+							<physical-demand>2.59968e-06</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -101209,11 +101209,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="biomass liquids">
-							<output>4.51443e-05</output>
+							<output>4.50786e-05</output>
 							<cached-co2-coef>19.6</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>6.43104e-05</emission>
+							<emission>6.42168e-05</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -101329,7 +101329,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.84715</cost>
+						<cost>6.84714</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional coal">
 							<coefficient>2.196</coefficient>
@@ -101528,7 +101528,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.79491</cost>
+						<cost>6.7949</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional natural gas">
 							<coefficient>1.654</coefficient>
@@ -101566,7 +101566,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.62661</cost>
+						<cost>6.6266</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="regional natural gas">
 							<coefficient>1.654</coefficient>
@@ -101610,7 +101610,7 @@
 					<base-value>49.0074</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.232337</output>
+				<output>0.232332</output>
 				<fixed-output>0.176559</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -101630,8 +101630,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.732973</input>
-					<output>0.222513</output>
+					<input>0.732961</input>
+					<output>0.222508</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -101642,7 +101642,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.44515</cost>
+						<cost>2.44514</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.85</capacity-factor>
 						<CalDataOutput>
@@ -101655,7 +101655,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3.54839</current-coef>
 							<cached-co2-coef>27.3</cached-co2-coef>
-							<physical-demand>0.598028</physical-demand>
+							<physical-demand>0.598029</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -101724,7 +101724,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>2.5</current-coef>
 							<cached-co2-coef>27.3</cached-co2-coef>
-							<physical-demand>0.134945</physical-demand>
+							<physical-demand>0.134933</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -101766,11 +101766,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>0.0539779</output>
+							<output>0.0539731</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>3.68399</emission>
+							<emission>3.68367</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="coal (conv pul CCS)">
@@ -101972,8 +101972,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>6.87218e-05</input>
-					<output>2.94273e-05</output>
+					<input>6.87154e-05</input>
+					<output>2.94246e-05</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -101997,7 +101997,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>2.65486</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>2.24606e-10</physical-demand>
+							<physical-demand>2.24603e-10</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102038,11 +102038,11 @@
 							<base-output year="2010">8.0003e-07</base-output>
 						</vintage-production-state>
 						<primary-output name="electricity">
-							<output>8.46018e-11</output>
+							<output>8.46007e-11</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>3.1894e-09</emission>
+							<emission>3.18936e-09</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="gas (steam/CT)">
@@ -102050,7 +102050,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>16.2174</cost>
+						<cost>16.2173</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.3</capacity-factor>
 						<minicam-energy-input name="wholesale gas">
@@ -102060,7 +102060,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>2.63158</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>5.0316e-05</physical-demand>
+							<physical-demand>5.03113e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102096,11 +102096,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>1.91201e-05</output>
+							<output>1.91183e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.000714487</emission>
+							<emission>0.000714421</emission>
 						</CO2>
 					</technology>
 					<technology year="2010" name="gas (CC)">
@@ -102121,7 +102121,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.73587</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>2.34605e-10</physical-demand>
+							<physical-demand>2.34602e-10</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102162,11 +102162,11 @@
 							<base-output year="2010">1.00004e-07</base-output>
 						</vintage-production-state>
 						<primary-output name="electricity">
-							<output>1.35151e-10</output>
+							<output>1.3515e-10</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>3.33139e-09</emission>
+							<emission>3.33135e-09</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="gas (CC)">
@@ -102174,7 +102174,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>17.2511</cost>
+						<cost>17.251</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.85</capacity-factor>
 						<minicam-energy-input name="wholesale gas">
@@ -102184,7 +102184,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.78571</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>1.84054e-05</physical-demand>
+							<physical-demand>1.84037e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102220,11 +102220,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>1.0307e-05</output>
+							<output>1.0306e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.000261357</emission>
+							<emission>0.000261332</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="gas (CC CCS)">
@@ -102302,8 +102302,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>7.13229e-05</input>
-					<output>2.08868e-05</output>
+					<input>7.12192e-05</input>
+					<output>2.08639e-05</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -102314,7 +102314,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>50.3381</cost>
+						<cost>50.3436</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.35</capacity-factor>
 						<CalDataOutput>
@@ -102327,7 +102327,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>4.94866</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>3.16749e-05</physical-demand>
+							<physical-demand>3.15831e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102368,11 +102368,11 @@
 							<base-output year="2010">0.00392275</base-output>
 						</vintage-production-state>
 						<primary-output name="electricity">
-							<output>6.40071e-06</output>
+							<output>6.38215e-06</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.000620828</emission>
+							<emission>0.000619028</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids (steam/CT)">
@@ -102380,7 +102380,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>45.2789</cost>
+						<cost>45.282</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.35</capacity-factor>
 						<minicam-energy-input name="refined liquids industrial">
@@ -102390,7 +102390,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>2.75482</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>3.9159e-05</physical-demand>
+							<physical-demand>3.91473e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102426,11 +102426,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>1.42147e-05</output>
+							<output>1.42105e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.000767516</emission>
+							<emission>0.000767286</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids (CC)">
@@ -102438,7 +102438,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>43.0812</cost>
+						<cost>43.0832</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.35</capacity-factor>
 						<minicam-energy-input name="refined liquids industrial">
@@ -102448,7 +102448,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.8018</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>4.88946e-07</physical-demand>
+							<physical-demand>4.88902e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102484,11 +102484,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>2.71365e-07</output>
+							<output>2.71341e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>9.58333e-06</emission>
+							<emission>9.58249e-06</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids (CC CCS)">
@@ -102566,8 +102566,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000457251</input>
-					<output>0.000121629</output>
+					<input>0.000457542</input>
+					<output>0.000121706</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -102578,7 +102578,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>21.7796</cost>
+						<cost>21.7751</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.6</capacity-factor>
 						<CalDataOutput>
@@ -102591,7 +102591,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>6.67027</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>2.58906e-11</physical-demand>
+							<physical-demand>2.59424e-11</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102632,11 +102632,11 @@
 							<base-output year="2010">2.00008e-07</base-output>
 						</vintage-production-state>
 						<primary-output name="electricity">
-							<output>3.8815e-12</output>
+							<output>3.88926e-12</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>5.95484e-10</emission>
+							<emission>5.96675e-10</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="biomass (conv)">
@@ -102644,7 +102644,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>10.3309</cost>
+						<cost>10.3284</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.6</capacity-factor>
 						<minicam-energy-input name="regional biomass">
@@ -102654,7 +102654,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3.7594</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>0.000457251</physical-demand>
+							<physical-demand>0.000457542</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -102690,11 +102690,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>0.000121629</output>
+							<output>0.000121706</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0105168</emission>
+							<emission>0.0105235</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="biomass (conv CCS)">
@@ -102768,7 +102768,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>45</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>15.7902</cost>
+						<cost>15.7881</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.8</capacity-factor>
 						<minicam-energy-input name="regional biomass">
@@ -103123,8 +103123,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00165197</input>
-					<output>0.00165197</output>
+					<input>0.00165182</input>
+					<output>0.00165181</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -103233,7 +103233,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00163411</physical-demand>
+							<physical-demand>0.00163396</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -103281,7 +103281,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>0.00163411</output>
+							<output>0.00163396</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -103315,7 +103315,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.04167</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>5.51421e-08</physical-demand>
+							<physical-demand>5.51369e-08</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<input-capital name="capital">
@@ -103346,7 +103346,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="electricity">
-							<output>5.29365e-08</output>
+							<output>5.29315e-08</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -103933,7 +103933,7 @@
 					<base-value>6.89042</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.0489677</output>
+				<output>0.0489702</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -103963,7 +103963,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.46021</cost>
+						<cost>6.4602</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.247361</capacity-factor>
 						<minicam-energy-input name="distributed_solar">
@@ -104005,8 +104005,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.063989</input>
-					<output>0.0489677</output>
+					<input>0.0639922</input>
+					<output>0.0489702</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104017,7 +104017,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.59312</cost>
+						<cost>3.59311</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>2.7026</input-cost>
@@ -104032,7 +104032,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.30676</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.063989</physical-demand>
+							<physical-demand>0.0639922</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="tax">
@@ -104044,7 +104044,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="elect_td_res">
-							<output>0.0489677</output>
+							<output>0.0489702</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -104063,7 +104063,7 @@
 					<base-value>8.37451</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.0261698</output>
+				<output>0.0261697</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -104093,7 +104093,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.46021</cost>
+						<cost>6.4602</cost>
 						<pMultiplier>1</pMultiplier>
 						<capacity-factor>0.247361</capacity-factor>
 						<minicam-energy-input name="distributed_solar">
@@ -104135,8 +104135,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0341976</input>
-					<output>0.0261698</output>
+					<input>0.0341974</input>
+					<output>0.0261697</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104147,7 +104147,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.55205</cost>
+						<cost>6.55204</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>2.7026</input-cost>
@@ -104162,7 +104162,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.30676</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.0341976</physical-demand>
+							<physical-demand>0.0341974</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="tax">
@@ -104174,7 +104174,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="elect_td_com">
-							<output>0.0261698</output>
+							<output>0.0261697</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -104193,7 +104193,7 @@
 					<base-value>6.48129</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.107776</output>
+				<output>0.107778</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -104205,8 +104205,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.140837</input>
-					<output>0.107776</output>
+					<input>0.140839</input>
+					<output>0.107778</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104232,7 +104232,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.30676</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.140837</physical-demand>
+							<physical-demand>0.140839</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="tax">
@@ -104244,7 +104244,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="elect_td_ind">
-							<output>0.107776</output>
+							<output>0.107778</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -104263,7 +104263,7 @@
 					<base-value>8.37455</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.00642673</output>
+				<output>0.00642719</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -104275,8 +104275,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00839819</input>
-					<output>0.00642673</output>
+					<input>0.00839878</input>
+					<output>0.00642719</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104287,7 +104287,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.55208</cost>
+						<cost>6.55207</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>2.7026</input-cost>
@@ -104302,7 +104302,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.30676</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00839819</physical-demand>
+							<physical-demand>0.00839878</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="tax">
@@ -104314,7 +104314,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="elect_td_trn">
-							<output>0.00642673</output>
+							<output>0.00642719</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -104345,8 +104345,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0132374</input>
-					<output>0.0133698</output>
+					<input>0.0132386</input>
+					<output>0.013371</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104357,7 +104357,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.49421</cost>
+						<cost>2.4942</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_ind">
 							<efficiency>1.01</efficiency>
@@ -104366,7 +104366,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.990099</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.0132374</physical-demand>
+							<physical-demand>0.0132386</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -104378,7 +104378,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Agriculture_enuse">
-							<output>0.0133698</output>
+							<output>0.013371</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -104394,8 +104394,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00206759</input>
-					<output>0.00205725</output>
+					<input>0.00206644</input>
+					<output>0.00205611</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104406,7 +104406,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>5.30265</cost>
+						<cost>5.30377</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.995</efficiency>
@@ -104415,7 +104415,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.00503</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00206759</physical-demand>
+							<physical-demand>0.00206644</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -104427,11 +104427,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Agriculture_enuse">
-							<output>0.00205725</output>
+							<output>0.00205611</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0405248</emission>
+							<emission>0.0405023</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids cogen">
@@ -104439,7 +104439,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>13.9728</cost>
+						<cost>13.9746</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.611</efficiency>
@@ -104814,8 +104814,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>8.11461e-05</input>
-					<output>8.07403e-05</output>
+					<input>8.11455e-05</input>
+					<output>8.07398e-05</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104826,7 +104826,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>502.318</cost>
+						<cost>502.319</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.995</efficiency>
@@ -104835,7 +104835,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.00503</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>8.11461e-05</physical-demand>
+							<physical-demand>8.11455e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -104847,11 +104847,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Chem_Fert_enuse">
-							<output>8.07403e-05</output>
+							<output>8.07398e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.00159046</emission>
+							<emission>0.00159045</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids cogen">
@@ -104859,7 +104859,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>583.634</cost>
+						<cost>583.636</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.611</efficiency>
@@ -104903,8 +104903,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>3.74534e-07</input>
-					<output>2.98878e-07</output>
+					<input>3.74539e-07</input>
+					<output>2.98882e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -104915,7 +104915,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>210.985</cost>
+						<cost>210.984</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.798</efficiency>
@@ -104924,7 +104924,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.25313</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>3.74534e-07</physical-demand>
+							<physical-demand>3.74539e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -104936,11 +104936,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Chem_Fert_enuse">
-							<output>2.98878e-07</output>
+							<output>2.98882e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>8.61429e-06</emission>
+							<emission>8.61439e-06</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="biomass cogen">
@@ -104948,7 +104948,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>527.818</cost>
+						<cost>527.817</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.557</efficiency>
@@ -105019,7 +105019,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.16813</cost>
+						<cost>1.16812</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>1</efficiency>
@@ -105060,8 +105060,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00606596</input>
-					<output>0.0151649</output>
+					<input>0.00606663</input>
+					<output>0.0151666</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -105081,7 +105081,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.4</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>0.00606596</physical-demand>
+							<physical-demand>0.00606663</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -105097,11 +105097,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Chem_Fert_fsuse">
-							<output>0.0151649</output>
+							<output>0.0151666</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0861366</emission>
+							<emission>0.0861462</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -105113,8 +105113,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000548508</input>
-					<output>0.0045709</output>
+					<input>0.000548305</input>
+					<output>0.00456921</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -105125,7 +105125,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.276728</cost>
+						<cost>0.276862</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<coefficient>0.12</coefficient>
@@ -105134,7 +105134,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.12</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000548508</physical-demand>
+							<physical-demand>0.000548305</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -105150,7 +105150,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Chem_Fert_fsuse">
-							<output>0.0045709</output>
+							<output>0.00456921</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -105222,7 +105222,7 @@
 					<base-value>5.04691</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.00145091</output>
+				<output>0.00145088</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -105234,8 +105234,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0014582</input>
-					<output>0.00145091</output>
+					<input>0.00145817</input>
+					<output>0.00145088</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -105246,7 +105246,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>5.30265</cost>
+						<cost>5.30377</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.995</efficiency>
@@ -105255,7 +105255,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.00503</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.0014582</physical-demand>
+							<physical-demand>0.00145817</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -105267,11 +105267,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Fisheries_enuse">
-							<output>0.00145091</output>
+							<output>0.00145088</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0285807</emission>
+							<emission>0.0285801</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids cogen">
@@ -105279,7 +105279,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>13.9728</cost>
+						<cost>13.9746</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.611</efficiency>
@@ -105654,8 +105654,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00177133</input>
-					<output>0.00176247</output>
+					<input>0.00177132</input>
+					<output>0.00176246</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -105666,7 +105666,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>665.166</cost>
+						<cost>665.167</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.995</efficiency>
@@ -105675,7 +105675,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.00503</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00177133</physical-demand>
+							<physical-demand>0.00177132</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -105687,11 +105687,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Iron and Steel_enuse">
-							<output>0.00176247</output>
+							<output>0.00176246</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0347181</emission>
+							<emission>0.0347179</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids cogen">
@@ -105743,8 +105743,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>3.5699e-07</input>
-					<output>2.84878e-07</output>
+					<input>3.56992e-07</input>
+					<output>2.84879e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -105755,7 +105755,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>642.984</cost>
+						<cost>642.983</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.798</efficiency>
@@ -105764,7 +105764,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.25313</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>3.5699e-07</physical-demand>
+							<physical-demand>3.56992e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -105776,11 +105776,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Iron and Steel_enuse">
-							<output>2.84878e-07</output>
+							<output>2.84879e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>8.21078e-06</emission>
+							<emission>8.21081e-06</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="biomass cogen">
@@ -105788,7 +105788,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1607.82</cost>
+						<cost>1607.81</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.557</efficiency>
@@ -105859,7 +105859,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.16813</cost>
+						<cost>1.16812</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>1</efficiency>
@@ -105965,7 +105965,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.30607</cost>
+						<cost>2.30718</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>1</efficiency>
@@ -106391,7 +106391,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>2.8022e-07</input>
-					<output>2.78819e-07</output>
+					<output>2.78818e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -106423,11 +106423,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Non-Ferrous Metals_enuse">
-							<output>2.78819e-07</output>
+							<output>2.78818e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>5.49231e-06</emission>
+							<emission>5.4923e-06</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids cogen">
@@ -106480,7 +106480,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>5.6888e-07</input>
-					<output>4.53966e-07</output>
+					<output>4.53967e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -106491,7 +106491,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3272.56</cost>
+						<cost>3272.55</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.798</efficiency>
@@ -106512,7 +106512,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Non-Ferrous Metals_enuse">
-							<output>4.53966e-07</output>
+							<output>4.53967e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -106911,7 +106911,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>752.318</cost>
+						<cost>752.319</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.995</efficiency>
@@ -106988,8 +106988,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>6.38137e-07</input>
-					<output>5.09234e-07</output>
+					<input>6.3814e-07</input>
+					<output>5.09236e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -107000,7 +107000,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>587.176</cost>
+						<cost>587.175</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.798</efficiency>
@@ -107009,7 +107009,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.25313</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>6.38137e-07</physical-demand>
+							<physical-demand>6.3814e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -107021,7 +107021,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Paper and Pulp_enuse">
-							<output>5.09234e-07</output>
+							<output>5.09236e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -107033,7 +107033,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1468.3</cost>
+						<cost>1468.29</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.557</efficiency>
@@ -107231,7 +107231,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>0.00246284</input>
-					<output>0.00219932</output>
+					<output>0.00219931</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -107263,7 +107263,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Other Industries_enuse">
-							<output>0.00219932</output>
+							<output>0.00219931</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -107409,7 +107409,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>0.0394931</input>
-					<output>0.0392957</output>
+					<output>0.0392956</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -107441,11 +107441,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Other Industries_enuse">
-							<output>0.0392957</output>
+							<output>0.0392956</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.774066</emission>
+							<emission>0.774064</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids cogen">
@@ -107498,7 +107498,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>0.101167</input>
-					<output>0.080731</output>
+					<output>0.0807311</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -107530,11 +107530,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Other Industries_enuse">
-							<output>0.080731</output>
+							<output>0.0807311</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>2.32683</emission>
+							<emission>2.32684</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="biomass cogen">
@@ -107613,7 +107613,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.16813</cost>
+						<cost>1.16812</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>1</efficiency>
@@ -107654,8 +107654,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00189065</input>
-					<output>0.00189065</output>
+					<input>0.00189155</input>
+					<output>0.00189155</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -107675,7 +107675,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>0.00189065</physical-demand>
+							<physical-demand>0.00189155</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -107691,11 +107691,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Other Industries_fsuse">
-							<output>0.00189065</output>
+							<output>0.00189155</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0268472</emission>
+							<emission>0.02686</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -107707,8 +107707,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0614373</input>
-					<output>0.094519</output>
+					<input>0.0614368</input>
+					<output>0.0945181</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -107719,7 +107719,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.49895</cost>
+						<cost>1.49967</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<coefficient>0.65</coefficient>
@@ -107728,7 +107728,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.65</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.0614373</physical-demand>
+							<physical-demand>0.0614368</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -107744,7 +107744,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Other Industries_fsuse">
-							<output>0.094519</output>
+							<output>0.0945181</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -107880,7 +107880,7 @@
 					<base-value>49.6718</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.00145091</output>
+				<output>0.00145088</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -107892,8 +107892,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00145091</input>
-					<output>0.00145091</output>
+					<input>0.00145088</input>
+					<output>0.00145088</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -107904,7 +107904,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>49.9275</cost>
+						<cost>49.9287</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="Fisheries_enuse">
 							<coefficient>1</coefficient>
@@ -107913,7 +107913,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00145091</physical-demand>
+							<physical-demand>0.00145088</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -107925,7 +107925,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Fisheries">
-							<output>0.00145091</output>
+							<output>0.00145088</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -108318,7 +108318,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.32441</cost>
+						<cost>4.3244</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>0.882</efficiency>
@@ -108395,8 +108395,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0246109</input>
-					<output>0.024857</output>
+					<input>0.024611</input>
+					<output>0.0248571</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -108407,7 +108407,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>7.70192</cost>
+						<cost>7.70191</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_ind">
 							<efficiency>1.01</efficiency>
@@ -108416,7 +108416,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.990099</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.0246109</physical-demand>
+							<physical-demand>0.024611</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -108428,7 +108428,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Food Processing_enuse">
-							<output>0.024857</output>
+							<output>0.0248571</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -108444,7 +108444,7 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>6.1733e-07</input>
+					<input>6.17331e-07</input>
 					<output>5.51276e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
@@ -108465,7 +108465,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.11982</current-coef>
 							<cached-co2-coef>14.2</cached-co2-coef>
-							<physical-demand>6.1733e-07</physical-demand>
+							<physical-demand>6.17331e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -108489,7 +108489,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>9.86281</cost>
+						<cost>9.8628</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="wholesale gas">
 							<efficiency>0.609</efficiency>
@@ -108578,7 +108578,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.31169</cost>
+						<cost>2.3117</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="H2 enduse">
 							<efficiency>0.457</efficiency>
@@ -108622,8 +108622,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>7.04657e-05</input>
-					<output>7.01134e-05</output>
+					<input>7.04212e-05</input>
+					<output>7.00691e-05</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -108634,7 +108634,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>5.31766</cost>
+						<cost>5.31878</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.995</efficiency>
@@ -108643,7 +108643,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.00503</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>7.04657e-05</physical-demand>
+							<physical-demand>7.04212e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -108655,11 +108655,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Food Processing_enuse">
-							<output>7.01134e-05</output>
+							<output>7.00691e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.00138113</emission>
+							<emission>0.00138026</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="refined liquids cogen">
@@ -108667,7 +108667,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>7.45214</cost>
+						<cost>7.45396</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<efficiency>0.611</efficiency>
@@ -108711,8 +108711,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>2.21711e-07</input>
-					<output>1.76925e-07</output>
+					<input>2.21809e-07</input>
+					<output>1.77004e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -108723,7 +108723,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>5.6692</cost>
+						<cost>5.66836</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.798</efficiency>
@@ -108732,7 +108732,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.25313</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>2.21711e-07</physical-demand>
+							<physical-demand>2.21809e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -108744,11 +108744,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="Food Processing_enuse">
-							<output>1.76925e-07</output>
+							<output>1.77004e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>5.09935e-06</emission>
+							<emission>5.1016e-06</emission>
 						</CO2>
 					</technology>
 					<technology year="2015" name="biomass cogen">
@@ -108756,7 +108756,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>7.60399</cost>
+						<cost>7.6028</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.557</efficiency>
@@ -109024,8 +109024,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000662239</input>
-					<output>0.000662239</output>
+					<input>0.000662282</input>
+					<output>0.000662282</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -109036,7 +109036,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>30.2221</cost>
+						<cost>30.2215</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<coefficient>1</coefficient>
@@ -109045,7 +109045,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>0.000662239</physical-demand>
+							<physical-demand>0.000662282</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -109057,11 +109057,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="process heat cement">
-							<output>0.000662239</output>
+							<output>0.000662282</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0152315</emission>
+							<emission>0.0152325</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -109171,8 +109171,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000327113</input>
-					<output>0.000327113</output>
+					<input>0.000327092</input>
+					<output>0.000327092</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -109183,7 +109183,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>53.2506</cost>
+						<cost>53.2518</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids industrial">
 							<coefficient>1</coefficient>
@@ -109192,7 +109192,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000327113</physical-demand>
+							<physical-demand>0.000327092</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -109204,11 +109204,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="process heat cement">
-							<output>0.000327113</output>
+							<output>0.000327092</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.00641142</emission>
+							<emission>0.00641101</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -109235,7 +109235,7 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000328191</input>
+					<input>0.000328192</input>
 					<output>0.00123235</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
@@ -109285,7 +109285,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>10</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.29392</cost>
+						<cost>1.29391</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>4.87778</efficiency>
@@ -109385,7 +109385,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural cooling">
-							<output>0.000741424</output>
+							<output>0.000741426</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -109416,7 +109416,7 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00401496</input>
+					<input>0.00401497</input>
 					<output>0.0151297</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
@@ -109466,7 +109466,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>10</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.29392</cost>
+						<cost>1.29391</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>4.87778</efficiency>
@@ -109566,7 +109566,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban cooling">
-							<output>0.00970696</output>
+							<output>0.00970698</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -109647,7 +109647,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>10</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.51353</cost>
+						<cost>4.51352</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>3.45</efficiency>
@@ -109778,7 +109778,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban coolers">
-							<output>0.000608459</output>
+							<output>0.00060846</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -109797,7 +109797,7 @@
 					<base-value>1.40574</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.0589458</output>
+				<output>0.0589459</output>
 				<fixed-output>0.011122</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -109810,7 +109810,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>0.00519379</input>
-					<output>0.0589458</output>
+					<output>0.0589459</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -109955,7 +109955,7 @@
 					<base-value>1.40575</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.0897151</output>
+				<output>0.0897152</output>
 				<fixed-output>0.0151612</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -109968,7 +109968,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>0.00802222</input>
-					<output>0.0897151</output>
+					<output>0.0897152</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -110073,7 +110073,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.100643</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.0075033</physical-demand>
+							<physical-demand>0.00750331</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -110125,7 +110125,7 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>9.10306e-05</input>
+					<input>9.10303e-05</input>
 					<output>0.000104685</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
@@ -110137,7 +110137,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>3</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>8.84005</cost>
+						<cost>8.84004</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>1.15</efficiency>
@@ -110146,7 +110146,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.869565</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>9.10306e-05</physical-demand>
+							<physical-demand>9.10303e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -110179,7 +110179,7 @@
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
 					<input>0.00136527</input>
-					<output>0.000353264</output>
+					<output>0.000353265</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -110190,7 +110190,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.44067</cost>
+						<cost>3.44066</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>0.25875</efficiency>
@@ -110215,11 +110215,11 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural space heating">
-							<output>0.000353264</output>
+							<output>0.000353265</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0372719</emission>
+							<emission>0.037272</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -110243,7 +110243,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.04092</cost>
+						<cost>2.03793</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.22425</efficiency>
@@ -110311,7 +110311,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>3</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>8.84005</cost>
+						<cost>8.84004</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>1.15</efficiency>
@@ -110364,7 +110364,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.44067</cost>
+						<cost>3.44066</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>0.25875</efficiency>
@@ -110417,7 +110417,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.04092</cost>
+						<cost>2.03793</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.22425</efficiency>
@@ -110473,8 +110473,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00280281</input>
-					<output>0.00238342</output>
+					<input>0.00280283</input>
+					<output>0.00238344</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -110485,7 +110485,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>9</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>5.02047</cost>
+						<cost>5.02046</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>0.74</efficiency>
@@ -110528,7 +110528,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>9</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.38713</cost>
+						<cost>4.38712</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>0.851</efficiency>
@@ -110537,7 +110537,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.17509</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00278687</physical-demand>
+							<physical-demand>0.00278689</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -110553,13 +110553,13 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural cooking">
-							<output>0.00237163</output>
+							<output>0.00237164</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>1.018</output-ratio>
 							<internal-gains-market-name>resid rural-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.00241432</output>
+							<output>0.00241433</output>
 						</internal-gains>
 						<CO2 name="CO2">
 							<emission>0</emission>
@@ -110574,8 +110574,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00012502</input>
-					<output>3.23489e-05</output>
+					<input>0.000125021</input>
+					<output>3.23492e-05</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -110586,7 +110586,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.53423</cost>
+						<cost>2.53422</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>0.25875</efficiency>
@@ -110595,7 +110595,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3.86473</current-coef>
 							<cached-co2-coef>27.3</cached-co2-coef>
-							<physical-demand>0.00012502</physical-demand>
+							<physical-demand>0.000125021</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -110611,16 +110611,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural cooking">
-							<output>3.23489e-05</output>
+							<output>3.23492e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>1.546</output-ratio>
 							<internal-gains-market-name>resid rural-internal-gains-trial-market</internal-gains-market-name>
-							<output>5.00114e-05</output>
+							<output>5.00119e-05</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.00341304</emission>
+							<emission>0.00341308</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -110644,7 +110644,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>-0.791115</cost>
+						<cost>-0.794096</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.22425</efficiency>
@@ -110702,7 +110702,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.08761</cost>
+						<cost>2.09224</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.24</efficiency>
@@ -110745,7 +110745,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>10.05</cost>
+						<cost>10.054</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.276</efficiency>
@@ -110754,7 +110754,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3.62319</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>8.33391e-07</physical-demand>
+							<physical-demand>8.3239e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -110770,16 +110770,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural cooking">
-							<output>2.30016e-07</output>
+							<output>2.2974e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>2.899</output-ratio>
 							<internal-gains-market-name>resid rural-internal-gains-trial-market</internal-gains-market-name>
-							<output>6.66816e-07</output>
+							<output>6.66016e-07</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>1.63345e-05</emission>
+							<emission>1.63149e-05</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -110861,7 +110861,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.353665</cost>
+						<cost>0.353658</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.54</efficiency>
@@ -110899,7 +110899,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.56149</cost>
+						<cost>3.56148</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.621</efficiency>
@@ -110955,8 +110955,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00436715</input>
-					<output>0.00371443</output>
+					<input>0.00436723</input>
+					<output>0.0037145</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -110967,7 +110967,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>9</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>5.02047</cost>
+						<cost>5.02046</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>0.74</efficiency>
@@ -111010,7 +111010,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>9</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.38713</cost>
+						<cost>4.38712</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_res">
 							<efficiency>0.851</efficiency>
@@ -111019,7 +111019,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.17509</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00434895</physical-demand>
+							<physical-demand>0.00434903</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -111035,13 +111035,13 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban cooking">
-							<output>0.00370096</output>
+							<output>0.00370103</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>1.018</output-ratio>
 							<internal-gains-market-name>resid urban-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.00376758</output>
+							<output>0.00376765</output>
 						</internal-gains>
 						<CO2 name="CO2">
 							<emission>0</emission>
@@ -111056,8 +111056,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>3.95084e-05</input>
-					<output>1.02228e-05</output>
+					<input>3.95092e-05</input>
+					<output>1.0223e-05</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -111068,7 +111068,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.53423</cost>
+						<cost>2.53422</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>0.25875</efficiency>
@@ -111077,7 +111077,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3.86473</current-coef>
 							<cached-co2-coef>27.3</cached-co2-coef>
-							<physical-demand>3.95084e-05</physical-demand>
+							<physical-demand>3.95092e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -111093,16 +111093,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban cooking">
-							<output>1.02228e-05</output>
+							<output>1.0223e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>1.546</output-ratio>
 							<internal-gains-market-name>resid urban-internal-gains-trial-market</internal-gains-market-name>
-							<output>1.58044e-05</output>
+							<output>1.58048e-05</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.00107858</emission>
+							<emission>0.0010786</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -111126,7 +111126,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>-0.791115</cost>
+						<cost>-0.794096</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.22425</efficiency>
@@ -111172,8 +111172,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0376703</input>
-					<output>0.00904591</output>
+					<input>0.0376702</input>
+					<output>0.00904587</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -111184,7 +111184,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.17456</cost>
+						<cost>3.17918</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.24</efficiency>
@@ -111227,7 +111227,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>11.137</cost>
+						<cost>11.141</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.276</efficiency>
@@ -111236,7 +111236,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3.62319</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000139652</physical-demand>
+							<physical-demand>0.000139503</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -111252,16 +111252,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban cooking">
-							<output>3.85441e-05</output>
+							<output>3.85028e-05</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>3.623</output-ratio>
 							<internal-gains-market-name>resid urban-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.000139645</output>
+							<output>0.000139495</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.00273719</emission>
+							<emission>0.00273425</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -111343,7 +111343,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.353665</cost>
+						<cost>0.353658</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.54</efficiency>
@@ -111381,7 +111381,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.56149</cost>
+						<cost>3.56148</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.621</efficiency>
@@ -111425,7 +111425,7 @@
 					<base-value>16.9692</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.00995396</output>
+				<output>0.00994422</output>
 				<fixed-output>0.00417417</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -111437,8 +111437,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0103485</input>
-					<output>0.00851117</output>
+					<input>0.0103466</input>
+					<output>0.00850956</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -111501,7 +111501,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.15045</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00607976</physical-demand>
+							<physical-demand>0.0060779</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -111517,13 +111517,13 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural apploth">
-							<output>0.00528467</output>
+							<output>0.00528305</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.02</output-ratio>
 							<internal-gains-market-name>resid rural-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.000105693</output>
+							<output>0.000105661</output>
 						</internal-gains>
 						<CO2 name="CO2">
 							<emission>0</emission>
@@ -111538,8 +111538,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>1.50185e-06</input>
-					<output>5.33448e-07</output>
+					<input>1.5014e-06</input>
+					<output>5.33288e-07</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -111550,7 +111550,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.0632</cost>
+						<cost>2.06319</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>0.355194</efficiency>
@@ -111559,7 +111559,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>2.81536</current-coef>
 							<cached-co2-coef>27.3</cached-co2-coef>
-							<physical-demand>1.50185e-06</physical-demand>
+							<physical-demand>1.5014e-06</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -111575,16 +111575,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural apploth">
-							<output>5.33448e-07</output>
+							<output>5.33288e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>1.126</output-ratio>
 							<internal-gains-market-name>resid rural-internal-gains-trial-market</internal-gains-market-name>
-							<output>6.00663e-07</output>
+							<output>6.00483e-07</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>4.10005e-05</emission>
+							<emission>4.09882e-05</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -111608,7 +111608,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>-0.524349</cost>
+						<cost>-0.526859</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.266395</efficiency>
@@ -111654,8 +111654,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00297378</input>
-					<output>0.00144225</output>
+					<input>0.00295854</input>
+					<output>0.00143413</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -111666,7 +111666,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.78057</cost>
+						<cost>1.78297</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.463296</efficiency>
@@ -111709,7 +111709,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.384211</cost>
+						<cost>0.386297</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.532791</efficiency>
@@ -111718,7 +111718,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.87691</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000928277</physical-demand>
+							<physical-demand>0.000913042</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -111734,16 +111734,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid rural apploth">
-							<output>0.000494577</output>
+							<output>0.00048646</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.09</output-ratio>
 							<internal-gains-market-name>resid rural-internal-gains-trial-market</internal-gains-market-name>
-							<output>4.4512e-05</output>
+							<output>4.37814e-05</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.0181942</emission>
+							<emission>0.0178956</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -111767,7 +111767,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.405569</cost>
+						<cost>0.405562</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.54</efficiency>
@@ -111810,7 +111810,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.57187</cost>
+						<cost>3.57186</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.621</efficiency>
@@ -111859,7 +111859,7 @@
 					<base-value>16.9692</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.0161222</output>
+				<output>0.0161127</output>
 				<fixed-output>0.00591194</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -111871,8 +111871,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.013434</input>
-					<output>0.0108662</output>
+					<input>0.0134382</input>
+					<output>0.0108699</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -111935,7 +111935,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.15045</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00628111</physical-demand>
+							<physical-demand>0.00628534</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -111951,13 +111951,13 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban apploth">
-							<output>0.00545969</output>
+							<output>0.00546337</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.02</output-ratio>
 							<internal-gains-market-name>resid urban-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.000109194</output>
+							<output>0.000109267</output>
 						</internal-gains>
 						<CO2 name="CO2">
 							<emission>0</emission>
@@ -111972,8 +111972,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00247068</input>
-					<output>0.000877572</output>
+					<input>0.00247237</input>
+					<output>0.000878169</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -111984,7 +111984,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.0632</cost>
+						<cost>2.06319</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered coal">
 							<efficiency>0.355194</efficiency>
@@ -111993,7 +111993,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>2.81536</current-coef>
 							<cached-co2-coef>27.3</cached-co2-coef>
-							<physical-demand>0.00247068</physical-demand>
+							<physical-demand>0.00247237</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -112009,16 +112009,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban apploth">
-							<output>0.000877572</output>
+							<output>0.000878169</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>1.126</output-ratio>
 							<internal-gains-market-name>resid urban-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.000988146</output>
+							<output>0.000988818</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.0674497</emission>
+							<emission>0.0674956</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -112042,7 +112042,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>-0.524349</cost>
+						<cost>-0.526859</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.266395</efficiency>
@@ -112088,8 +112088,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00836031</input>
-					<output>0.00437848</output>
+					<input>0.00833435</input>
+					<output>0.00436465</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -112100,7 +112100,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>2.86752</cost>
+						<cost>2.86992</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.463296</efficiency>
@@ -112143,7 +112143,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>1.47116</cost>
+						<cost>1.47324</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.532791</efficiency>
@@ -112152,7 +112152,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.87691</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00726933</physical-demand>
+							<physical-demand>0.00724336</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -112168,16 +112168,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="resid urban apploth">
-							<output>0.00387303</output>
+							<output>0.0038592</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.09</output-ratio>
 							<internal-gains-market-name>resid urban-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.000348573</output>
+							<output>0.000347328</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.142479</emission>
+							<emission>0.14197</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -112201,7 +112201,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.405569</cost>
+						<cost>0.405562</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.54</efficiency>
@@ -112244,7 +112244,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.57187</cost>
+						<cost>3.57186</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.621</efficiency>
@@ -112539,7 +112539,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>15</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>42.5145</cost>
+						<cost>42.5144</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_com">
 							<efficiency>0.19</efficiency>
@@ -112582,7 +112582,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>15</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>43.6437</cost>
+						<cost>43.6436</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_com">
 							<efficiency>0.2565</efficiency>
@@ -112607,7 +112607,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="comm ref">
-							<output>0.000136662</output>
+							<output>0.000136663</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
@@ -112631,7 +112631,7 @@
 					<base-value>31.0796</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.0414711</output>
+				<output>0.041472</output>
 				<fixed-output>0.00103243</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -112643,8 +112643,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0100266</input>
-					<output>0.00988121</output>
+					<input>0.0100264</input>
+					<output>0.00988101</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -112707,7 +112707,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>0.980014</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00870406</physical-demand>
+							<physical-demand>0.00870387</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -112723,13 +112723,13 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="comm others">
-							<output>0.00888157</output>
+							<output>0.00888137</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.047</output-ratio>
 							<internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.000417434</output>
+							<output>0.000417425</output>
 						</internal-gains>
 						<CO2 name="CO2">
 							<emission>0</emission>
@@ -112744,8 +112744,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0542496</input>
-					<output>0.0301604</output>
+					<input>0.0542485</input>
+					<output>0.0301597</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -112765,7 +112765,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.7987</current-coef>
 							<cached-co2-coef>27.3</cached-co2-coef>
-							<physical-demand>0.0542496</physical-demand>
+							<physical-demand>0.0542485</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -112781,16 +112781,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="comm others">
-							<output>0.0301604</output>
+							<output>0.0301597</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.086</output-ratio>
 							<internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.00259379</output>
+							<output>0.00259374</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>1.48102</emission>
+							<emission>1.48098</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -112802,8 +112802,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0044658</input>
-					<output>0.00139657</output>
+					<input>0.00447122</input>
+					<output>0.00139826</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -112814,7 +112814,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>4</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>5.1911</cost>
+						<cost>5.18896</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered biomass">
 							<efficiency>0.312725</efficiency>
@@ -112823,7 +112823,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3.1977</current-coef>
 							<cached-co2-coef>23</cached-co2-coef>
-							<physical-demand>0.0044658</physical-demand>
+							<physical-demand>0.00447122</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -112839,16 +112839,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="comm others">
-							<output>0.00139657</output>
+							<output>0.00139826</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.153</output-ratio>
 							<internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
-							<output>0.000213675</output>
+							<output>0.000213934</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.102713</emission>
+							<emission>0.102838</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -112860,7 +112860,7 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>7.10338e-05</input>
+					<input>7.10337e-05</input>
 					<output>3.29505e-05</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
@@ -112872,7 +112872,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>24.1437</cost>
+						<cost>24.1461</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.463296</efficiency>
@@ -112915,7 +112915,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>224.433</cost>
+						<cost>224.435</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.62545</efficiency>
@@ -112924,7 +112924,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.59885</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>2.51661e-07</physical-demand>
+							<physical-demand>2.51649e-07</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -112940,16 +112940,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="comm others">
-							<output>1.57401e-07</output>
+							<output>1.57394e-07</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.077</output-ratio>
 							<internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
-							<output>1.21199e-08</output>
+							<output>1.21193e-08</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>4.93256e-06</emission>
+							<emission>4.93233e-06</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -112964,7 +112964,7 @@
 					<base-value>11.3227</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>0.00284956</output>
+				<output>0.00284946</output>
 				<fixed-output>0.00209715</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -112976,8 +112976,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00372409</input>
-					<output>0.00260914</output>
+					<input>0.00372391</input>
+					<output>0.00260898</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -112988,7 +112988,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>4.13006</cost>
+						<cost>4.13174</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.6627</efficiency>
@@ -113031,7 +113031,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.45925</cost>
+						<cost>6.46049</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<efficiency>0.894645</efficiency>
@@ -113040,7 +113040,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.11776</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000608698</physical-demand>
+							<physical-demand>0.00060852</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -113056,16 +113056,16 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="comm cooking">
-							<output>0.000544569</output>
+							<output>0.00054441</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.054</output-ratio>
 							<internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
-							<output>2.94067e-05</output>
+							<output>2.93981e-05</output>
 						</internal-gains>
 						<CO2 name="CO2">
-							<emission>0.0119305</emission>
+							<emission>0.011927</emission>
 						</CO2>
 					</technology>
 				</subsector>
@@ -113132,7 +113132,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>3.72549</cost>
+						<cost>3.72548</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<efficiency>0.351</efficiency>
@@ -113178,8 +113178,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</relative-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000252072</input>
-					<output>0.000240417</output>
+					<input>0.000252132</input>
+					<output>0.000240478</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -113190,7 +113190,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>8.85992</cost>
+						<cost>8.85991</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_com">
 							<efficiency>0.74</efficiency>
@@ -113233,7 +113233,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>30</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>6.57169</cost>
+						<cost>6.57168</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_com">
 							<efficiency>0.999</efficiency>
@@ -113242,7 +113242,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.001</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.000208048</physical-demand>
+							<physical-demand>0.000208108</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -113258,13 +113258,13 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="comm cooking">
-							<output>0.00020784</output>
+							<output>0.0002079</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<internal-gains>
 							<output-ratio>0.048</output-ratio>
 							<internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
-							<output>9.97632e-06</output>
+							<output>9.9792e-06</output>
 						</internal-gains>
 						<CO2 name="CO2">
 							<emission>0</emission>
@@ -113282,7 +113282,7 @@
 					<base-value>0.0796394</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>499.218</output>
+				<output>499.189</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -113294,8 +113294,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000918033</input>
-					<output>499.218</output>
+					<input>0.000917978</input>
+					<output>499.189</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -113312,7 +113312,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0741742</cost>
+						<cost>0.0741787</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>11.9231</input-cost>
@@ -113327,21 +113327,21 @@
 							<tech-change>-1</tech-change>
 							<current-coef>410581</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000918033</physical-demand>
+							<physical-demand>0.000917978</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_aviation_intl">
-							<output>499.218</output>
+							<output>499.189</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0179935</emission>
+							<emission>0.0179924</emission>
 						</CO2>
 						<loadFactor>235.55</loadFactor>
-						<vehicleOutput>2.11937</vehicleOutput>
-						<serviceOutput>499.218</serviceOutput>
+						<vehicleOutput>2.11925</vehicleOutput>
+						<serviceOutput>499.189</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 			</supplysector>
@@ -113355,7 +113355,7 @@
 					<base-value>0.017266</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>97017.1</output>
+				<output>97013.3</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -113367,8 +113367,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.000503406</input>
-					<output>1488.42</output>
+					<input>0.000503296</input>
+					<output>1488.09</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -113385,7 +113385,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0049956</cost>
+						<cost>0.00499643</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>0.6632</input-cost>
@@ -113400,21 +113400,21 @@
 							<tech-change>-1</tech-change>
 							<current-coef>320583</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.000503406</physical-demand>
+							<physical-demand>0.000503296</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_freight">
-							<output>1488.42</output>
+							<output>1488.09</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.00986675</emission>
+							<emission>0.0098646</emission>
 						</CO2>
 						<loadFactor>1000</loadFactor>
-						<vehicleOutput>1.48842</vehicleOutput>
-						<serviceOutput>1488.42</serviceOutput>
+						<vehicleOutput>1.48809</vehicleOutput>
+						<serviceOutput>1488.09</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 				<tranSubsector name="Freight Rail">
@@ -113425,8 +113425,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00687874</input>
-					<output>56046.7</output>
+					<input>0.00687934</input>
+					<output>56052.3</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -113443,7 +113443,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.00308935</cost>
+						<cost>0.00308934</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>0</input-cost>
@@ -113494,28 +113494,28 @@
 							<tech-change>-1</tech-change>
 							<current-coef>91844.9</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.00342883</physical-demand>
+							<physical-demand>0.00342921</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_freight">
-							<output>42880.8</output>
+							<output>42885.4</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
 							<emission>0</emission>
 						</CO2>
 						<loadFactor>1211.78</loadFactor>
-						<vehicleOutput>35.3866</vehicleOutput>
-						<serviceOutput>42880.8</serviceOutput>
+						<vehicleOutput>35.3904</vehicleOutput>
+						<serviceOutput>42885.4</serviceOutput>
 					</tranTechnology>
 					<tranTechnology year="2015" name="Liquids">
 						<share-weight>0.503663</share-weight>
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0174437</cost>
+						<cost>0.0174443</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>17.0705</input-cost>
@@ -113530,21 +113530,21 @@
 							<tech-change>-1</tech-change>
 							<current-coef>300972</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00344991</physical-demand>
+							<physical-demand>0.00345013</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_freight">
-							<output>13166</output>
+							<output>13166.8</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0676182</emission>
+							<emission>0.0676226</emission>
 						</CO2>
 						<loadFactor>1211.78</loadFactor>
-						<vehicleOutput>10.865</vehicleOutput>
-						<serviceOutput>13166</serviceOutput>
+						<vehicleOutput>10.8657</vehicleOutput>
+						<serviceOutput>13166.8</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 				<tranSubsector name="road">
@@ -113555,8 +113555,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>39482</input>
-					<output>39482</output>
+					<input>39472.9</input>
+					<output>39472.9</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -113573,7 +113573,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0180971</cost>
+						<cost>0.0181002</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="trn_freight_road">
 							<coefficient>1</coefficient>
@@ -113582,13 +113582,13 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>39482</physical-demand>
+							<physical-demand>39472.9</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_freight">
-							<output>39482</output>
+							<output>39472.9</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -113607,7 +113607,7 @@
 					<base-value>0.017266</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>39482</output>
+				<output>39472.9</output>
 				<fixed-output>30312.8</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -113619,8 +113619,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0484616</input>
-					<output>39482</output>
+					<input>0.0484502</input>
+					<output>39472.9</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -113637,7 +113637,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>25</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0173285</cost>
+						<cost>0.0173315</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>6208.1</coefficient>
@@ -113678,7 +113678,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>25</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0180971</cost>
+						<cost>0.0181002</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>6157.1</coefficient>
@@ -113687,7 +113687,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>6157.1</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.0115996</physical-demand>
+							<physical-demand>0.0115882</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -113703,15 +113703,15 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_freight_road">
-							<output>9169.17</output>
+							<output>9160.12</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.227352</emission>
+							<emission>0.227128</emission>
 						</CO2>
 						<loadFactor>5.1347</loadFactor>
-						<vehicleOutput>1785.73</vehicleOutput>
-						<serviceOutput>9169.17</serviceOutput>
+						<vehicleOutput>1783.96</vehicleOutput>
+						<serviceOutput>9160.12</serviceOutput>
 					</tranTechnology>
 					<tranTechnology year="2010" name="NG">
 						<share-weight>0</share-weight>
@@ -113968,7 +113968,7 @@
 					<base-value>0.117448</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>260950</output>
+				<output>260948</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -113980,8 +113980,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>93780.8</input>
-					<output>31260.3</output>
+					<input>93782.9</input>
+					<output>31261</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114001,12 +114001,12 @@
 						<cost>0</cost>
 						<pMultiplier>1</pMultiplier>
 						<renewable-input name="renewable">
-							<physical-demand>93780.8</physical-demand>
+							<physical-demand>93782.9</physical-demand>
 						</renewable-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass">
-							<output>31260.3</output>
+							<output>31261</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -114022,8 +114022,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00405941</input>
-					<output>1351.94</output>
+					<input>0.00405897</input>
+					<output>1351.8</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114040,7 +114040,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.109123</cost>
+						<cost>0.109131</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>9.0912</input-cost>
@@ -114055,21 +114055,21 @@
 							<tech-change>-1</tech-change>
 							<current-coef>366181</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00405941</physical-demand>
+							<physical-demand>0.00405897</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass">
-							<output>1351.94</output>
+							<output>1351.8</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0795645</emission>
+							<emission>0.0795557</emission>
 						</CO2>
 						<loadFactor>128.66</loadFactor>
-						<vehicleOutput>10.5079</vehicleOutput>
-						<serviceOutput>1351.94</serviceOutput>
+						<vehicleOutput>10.5067</vehicleOutput>
+						<serviceOutput>1351.8</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 				<tranSubsector name="HSR">
@@ -114138,8 +114138,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0066047</input>
-					<output>97436.7</output>
+					<input>0.00660467</input>
+					<output>97437.6</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114171,28 +114171,28 @@
 							<tech-change>-1</tech-change>
 							<current-coef>50482.2</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>0.0029979</physical-demand>
+							<physical-demand>0.00299798</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass">
-							<output>67282.1</output>
+							<output>67283.9</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
 							<emission>0</emission>
 						</CO2>
 						<loadFactor>1195.29</loadFactor>
-						<vehicleOutput>56.2893</vehicleOutput>
-						<serviceOutput>67282.1</serviceOutput>
+						<vehicleOutput>56.2909</vehicleOutput>
+						<serviceOutput>67283.9</serviceOutput>
 					</tranTechnology>
 					<tranTechnology year="2015" name="Liquids">
 						<share-weight>0.602321</share-weight>
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.00475129</cost>
+						<cost>0.00475159</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>3.8478</input-cost>
@@ -114207,21 +114207,21 @@
 							<tech-change>-1</tech-change>
 							<current-coef>135516</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00360681</physical-demand>
+							<physical-demand>0.00360669</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass">
-							<output>30154.6</output>
+							<output>30153.6</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0706934</emission>
+							<emission>0.0706911</emission>
 						</CO2>
 						<loadFactor>1195.29</loadFactor>
-						<vehicleOutput>25.2279</vehicleOutput>
-						<serviceOutput>30154.6</serviceOutput>
+						<vehicleOutput>25.227</vehicleOutput>
+						<serviceOutput>30153.6</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 				<tranSubsector name="Walk">
@@ -114232,8 +114232,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>177142</input>
-					<output>59047.4</output>
+					<input>177146</input>
+					<output>59048.7</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114253,12 +114253,12 @@
 						<cost>0</cost>
 						<pMultiplier>1</pMultiplier>
 						<renewable-input name="renewable">
-							<physical-demand>177142</physical-demand>
+							<physical-demand>177146</physical-demand>
 						</renewable-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass">
-							<output>59047.4</output>
+							<output>59048.7</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -114274,8 +114274,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>71853.7</input>
-					<output>71853.7</output>
+					<input>71848.5</input>
+					<output>71848.5</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114292,7 +114292,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0863406</cost>
+						<cost>0.0863447</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="trn_pass_road">
 							<coefficient>1</coefficient>
@@ -114301,13 +114301,13 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>71853.7</physical-demand>
+							<physical-demand>71848.5</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass">
-							<output>71853.7</output>
+							<output>71848.5</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -114326,7 +114326,7 @@
 					<base-value>0.0943431</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>71853.7</output>
+				<output>71848.5</output>
 				<fixed-output>10245.3</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -114338,8 +114338,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>52643.9</input>
-					<output>52643.9</output>
+					<input>52638.9</input>
+					<output>52638.9</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114356,7 +114356,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0977985</cost>
+						<cost>0.097804</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="trn_pass_road_LDV">
 							<coefficient>1</coefficient>
@@ -114365,13 +114365,13 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>52643.9</physical-demand>
+							<physical-demand>52638.9</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass_road">
-							<output>52643.9</output>
+							<output>52638.9</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -114387,8 +114387,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00598335</input>
-					<output>19209.8</output>
+					<input>0.00598328</input>
+					<output>19209.6</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114405,7 +114405,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>15</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.00614097</cost>
+						<cost>0.00614175</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>12334.9</coefficient>
@@ -114446,7 +114446,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>15</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.00600896</cost>
+						<cost>0.00600971</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>11841.5</coefficient>
@@ -114455,7 +114455,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>11841.5</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00273152</physical-demand>
+							<physical-demand>0.00273145</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -114471,15 +114471,15 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass_road">
-							<output>8964.58</output>
+							<output>8964.33</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0535379</emission>
+							<emission>0.0535364</emission>
 						</CO2>
 						<loadFactor>41</loadFactor>
-						<vehicleOutput>218.648</vehicleOutput>
-						<serviceOutput>8964.58</serviceOutput>
+						<vehicleOutput>218.642</vehicleOutput>
+						<serviceOutput>8964.33</serviceOutput>
 					</tranTechnology>
 					<tranTechnology year="2010" name="Electric">
 						<share-weight>0</share-weight>
@@ -114567,7 +114567,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>15</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.00389989</cost>
+						<cost>0.00389988</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="delivered gas">
 							<coefficient>13420</coefficient>
@@ -114655,7 +114655,7 @@
 					<base-value>0.259559</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>52643.9</output>
+				<output>52638.9</output>
 				<fixed-output>1743.39</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -114667,8 +114667,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.00300758</input>
-					<output>3554.34</output>
+					<input>0.00300704</input>
+					<output>3553.68</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114685,7 +114685,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>25</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0078276</cost>
+						<cost>0.00782759</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="elect_td_trn">
 							<coefficient>218.9</coefficient>
@@ -114847,7 +114847,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>25</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0137949</cost>
+						<cost>0.013797</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>1439.8</coefficient>
@@ -114888,7 +114888,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>25</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0134439</cost>
+						<cost>0.013446</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>1384.5</coefficient>
@@ -114897,7 +114897,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1384.5</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00150293</physical-demand>
+							<physical-demand>0.00150238</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -114913,15 +114913,15 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass_road_LDV">
-							<output>1810.94</output>
+							<output>1810.29</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0294573</emission>
+							<emission>0.0294467</emission>
 						</CO2>
 						<loadFactor>1.76</loadFactor>
-						<vehicleOutput>1028.94</vehicleOutput>
-						<serviceOutput>1810.94</serviceOutput>
+						<vehicleOutput>1028.57</vehicleOutput>
+						<serviceOutput>1810.29</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 				<tranSubsector name="4W">
@@ -114932,8 +114932,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>12047.7</input>
-					<output>12047.7</output>
+					<input>12047.2</input>
+					<output>12047.2</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114950,7 +114950,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.259278</cost>
+						<cost>0.259282</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="trn_pass_road_LDV_4W">
 							<coefficient>1</coefficient>
@@ -114959,13 +114959,13 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>12047.7</physical-demand>
+							<physical-demand>12047.2</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass_road_LDV">
-							<output>12047.7</output>
+							<output>12047.2</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -114981,8 +114981,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>37041.9</input>
-					<output>37041.9</output>
+					<input>37038</input>
+					<output>37038</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -114999,7 +114999,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0388109</cost>
+						<cost>0.0388123</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="trn_pass_road_LDV_2W">
 							<coefficient>1</coefficient>
@@ -115008,13 +115008,13 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1</current-coef>
 							<cached-co2-coef>0</cached-co2-coef>
-							<physical-demand>37041.9</physical-demand>
+							<physical-demand>37038</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass_road_LDV">
-							<output>37041.9</output>
+							<output>37038</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -115033,7 +115033,7 @@
 					<base-value>0.0385291</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>37041.9</output>
+				<output>37038</output>
 				<fixed-output>33403.7</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -115045,8 +115045,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0229595</input>
-					<output>37041.9</output>
+					<input>0.0229572</input>
+					<output>37038</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -115144,7 +115144,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>15</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.038561</cost>
+						<cost>0.0385625</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>883.7</coefficient>
@@ -115185,7 +115185,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>15</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.0388109</cost>
+						<cost>0.0388123</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>870.4</coefficient>
@@ -115194,7 +115194,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>870.4</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.0021979</physical-demand>
+							<physical-demand>0.00219555</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -115210,15 +115210,15 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass_road_LDV_2W">
-							<output>3638.15</output>
+							<output>3634.26</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0430789</emission>
+							<emission>0.0430328</emission>
 						</CO2>
 						<loadFactor>1.52</loadFactor>
-						<vehicleOutput>2393.52</vehicleOutput>
-						<serviceOutput>3638.15</serviceOutput>
+						<vehicleOutput>2390.96</vehicleOutput>
+						<serviceOutput>3634.26</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 			</supplysector>
@@ -115232,7 +115232,7 @@
 					<base-value>0.00217718</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</relative-cost-logit>
-				<output>408.244</output>
+				<output>408.212</output>
 				<fixed-output>0</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -115244,8 +115244,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>4.29278e-05</input>
-					<output>408.244</output>
+					<input>4.29245e-05</input>
+					<output>408.212</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -115262,7 +115262,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>5</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.00217585</cost>
+						<cost>0.00217611</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-non-energy-input name="non-energy">
 							<input-cost>16.5779</input-cost>
@@ -115277,21 +115277,21 @@
 							<tech-change>-1</tech-change>
 							<current-coef>1.99341e+06</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>4.29278e-05</physical-demand>
+							<physical-demand>4.29245e-05</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_shipping_intl">
-							<output>408.244</output>
+							<output>408.212</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.000841385</emission>
+							<emission>0.00084132</emission>
 						</CO2>
 						<loadFactor>20000</loadFactor>
-						<vehicleOutput>0.0204122</vehicleOutput>
-						<serviceOutput>408.244</serviceOutput>
+						<vehicleOutput>0.0204106</vehicleOutput>
+						<serviceOutput>408.212</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 			</supplysector>
@@ -115305,7 +115305,7 @@
 					<base-value>0.253016</base-value>
 					<parsed-base-value>0</parsed-base-value>
 				</absolute-cost-logit>
-				<output>12047.7</output>
+				<output>12047.2</output>
 				<fixed-output>10672.2</fixed-output>
 				<outputs-all-fixed>0</outputs-all-fixed>
 				<cal-output>0</cal-output>
@@ -115317,8 +115317,8 @@
 						<parsed-base-value>0</parsed-base-value>
 					</absolute-cost-logit>
 					<fuelprefElasticity>0</fuelprefElasticity>
-					<input>0.0204709</input>
-					<output>12047.7</output>
+					<input>0.0204701</input>
+					<output>12047.2</output>
 					<total-cal-outputs>0</total-cal-outputs>
 					<investment>0</investment>
 					<FixedInvestment>-1</FixedInvestment>
@@ -115578,7 +115578,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>17</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.253103</cost>
+						<cost>0.253107</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>3459.8</coefficient>
@@ -115619,7 +115619,7 @@
 						<fixedOutput>-1</fixedOutput>
 						<lifetime>17</lifetime>
 						<alpha-zero>1</alpha-zero>
-						<cost>0.259278</cost>
+						<cost>0.259282</cost>
 						<pMultiplier>1</pMultiplier>
 						<minicam-energy-input name="refined liquids enduse">
 							<coefficient>3344.5</coefficient>
@@ -115628,7 +115628,7 @@
 							<tech-change>-1</tech-change>
 							<current-coef>3344.5</current-coef>
 							<cached-co2-coef>19.6</cached-co2-coef>
-							<physical-demand>0.00226793</physical-demand>
+							<physical-demand>0.00226717</physical-demand>
 							<price-unit-conversion>1</price-unit-conversion>
 						</minicam-energy-input>
 						<minicam-non-energy-input name="non-energy">
@@ -115644,15 +115644,15 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="trn_pass_road_LDV_4W">
-							<output>1375.5</output>
+							<output>1375.04</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
-							<emission>0.0444514</emission>
+							<emission>0.0444366</emission>
 						</CO2>
 						<loadFactor>2.14</loadFactor>
-						<vehicleOutput>642.756</vehicleOutput>
-						<serviceOutput>1375.5</serviceOutput>
+						<vehicleOutput>642.541</vehicleOutput>
+						<serviceOutput>1375.04</serviceOutput>
 					</tranTechnology>
 				</tranSubsector>
 			</supplysector>
@@ -115775,13 +115775,13 @@
 				<output-unit>EJ</output-unit>
 				<price-unit>1975 $/GJ</price-unit>
 				<market>WB</market>
-				<rscprc>0.000941914</rscprc>
+				<rscprc>0.000941913</rscprc>
 				<available>0</available>
-				<annualprod>0.00165197</annualprod>
+				<annualprod>0.00165182</annualprod>
 				<cummprod>2.69319</cummprod>
 				<smooth-renewable-subresource name="onshore wind resource">
 					<available>0</available>
-					<annualprod>0.00165197</annualprod>
+					<annualprod>0.00165182</annualprod>
 					<cumulprod>2.69319</cumulprod>
 					<techChange>0</techChange>
 					<cal-production>-1</cal-production>
@@ -115797,7 +115797,7 @@
 						<variable-production-state>
 						</variable-production-state>
 						<primary-output name="onshore wind resource">
-							<output>0.00165197</output>
+							<output>0.00165182</output>
 							<cached-co2-coef>0</cached-co2-coef>
 						</primary-output>
 						<CO2 name="CO2">
@@ -115867,7 +115867,7 @@
 			<social-discount-rate>0.02</social-discount-rate>
 			<private-discount-rate-land>0.1</private-discount-rate-land>
 			<calibrationGDPs>0</calibrationGDPs>
-			<priceSer>4723.35</priceSer>
+			<priceSer>4723.39</priceSer>
 			<PrimaryFuelCO2Coef name="biomass liquids">19.6</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="coal to liquids">19.6</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="gas to liquids">19.6</PrimaryFuelCO2Coef>
@@ -115915,8 +115915,8 @@
 					<cumm-tech-change>1</cumm-tech-change>
 				</final-energy-consumer>
 				<base-service>0</base-service>
-				<service>0.00145091</service>
-				<service-pre-tech-change>0.00145091</service-pre-tech-change>
+				<service>0.00145088</service>
+				<service-pre-tech-change>0.00145088</service-pre-tech-change>
 				<income-elasticity>0.550997</income-elasticity>
 				<price-elasticity>-1</price-elasticity>
 			</energy-final-demand>
@@ -116006,8 +116006,8 @@
 					<cumm-tech-change>1</cumm-tech-change>
 				</final-energy-consumer>
 				<base-service>0</base-service>
-				<service>260950</service>
-				<service-pre-tech-change>260950</service-pre-tech-change>
+				<service>260948</service>
+				<service-pre-tech-change>260948</service-pre-tech-change>
 				<income-elasticity>1.25</income-elasticity>
 				<price-elasticity>-1.25</price-elasticity>
 			</energy-final-demand>
@@ -116019,8 +116019,8 @@
 					<cumm-tech-change>1</cumm-tech-change>
 				</final-energy-consumer>
 				<base-service>0</base-service>
-				<service>97017.1</service>
-				<service-pre-tech-change>97017.1</service-pre-tech-change>
+				<service>97013.3</service>
+				<service-pre-tech-change>97013.3</service-pre-tech-change>
 				<income-elasticity>1</income-elasticity>
 				<price-elasticity>-0.65</price-elasticity>
 			</energy-final-demand>
@@ -116032,8 +116032,8 @@
 					<cumm-tech-change>1</cumm-tech-change>
 				</final-energy-consumer>
 				<base-service>0</base-service>
-				<service>499.218</service>
-				<service-pre-tech-change>499.218</service-pre-tech-change>
+				<service>499.189</service>
+				<service-pre-tech-change>499.189</service-pre-tech-change>
 				<income-elasticity>1.15</income-elasticity>
 				<price-elasticity>-1</price-elasticity>
 			</energy-final-demand>
@@ -116045,8 +116045,8 @@
 					<cumm-tech-change>1</cumm-tech-change>
 				</final-energy-consumer>
 				<base-service>0</base-service>
-				<service>408.244</service>
-				<service-pre-tech-change>408.244</service-pre-tech-change>
+				<service>408.212</service>
+				<service-pre-tech-change>408.212</service-pre-tech-change>
 				<income-elasticity>0.4</income-elasticity>
 				<price-elasticity>-0.65</price-elasticity>
 			</energy-final-demand>
@@ -116057,18 +116057,18 @@
 					<Sigma2>0</Sigma2>
 					<coefficient>0</coefficient>
 					<demandCurrency>0.0317199</demandCurrency>
-					<pricePaid>14.0016</pricePaid>
+					<pricePaid>14.0014</pricePaid>
 					<prodDmdFnType>building-function</prodDmdFnType>
 					<building-node-input name="comm_building">
 						<building-size>0.0763906</building-size>
 						<price-exponent>0</price-exponent>
 						<shell-conductance>1.429</shell-conductance>
 						<floor-to-surface-ratio>5.5</floor-to-surface-ratio>
-						<price>14.0016</price>
+						<price>14.0014</price>
 						<prodDmdFnType>building-service-function</prodDmdFnType>
 						<building-service-input name="comm cooking">
-							<service>0.00284956</service>
-							<service-density>0.0373024</service-density>
+							<service>0.00284946</service>
+							<service-density>0.0373011</service-density>
 						</building-service-input>
 						<thermal-building-service-input name="comm hvac">
 							<service>0.0284339</service>
@@ -116082,8 +116082,8 @@
 							<service-density>0.940985</service-density>
 						</building-service-input>
 						<building-service-input name="comm others">
-							<service>0.0414711</service>
-							<service-density>0.542882</service-density>
+							<service>0.041472</service>
+							<service-density>0.542893</service-density>
 						</building-service-input>
 						<building-service-input name="comm ref">
 							<service>0.000303765</service>
@@ -116132,22 +116132,22 @@
 					<Sigma2>0</Sigma2>
 					<coefficient>0</coefficient>
 					<demandCurrency>0.120945</demandCurrency>
-					<pricePaid>1.33567</pricePaid>
+					<pricePaid>1.3361</pricePaid>
 					<prodDmdFnType>building-function</prodDmdFnType>
 					<building-node-input name="resid urban_building">
 						<building-size>0.260021</building-size>
 						<price-exponent>0</price-exponent>
 						<shell-conductance>1.419</shell-conductance>
 						<floor-to-surface-ratio>5.5</floor-to-surface-ratio>
-						<price>1.33567</price>
+						<price>1.3361</price>
 						<prodDmdFnType>building-service-function</prodDmdFnType>
 						<building-service-input name="resid urban apploth">
-							<service>0.0161222</service>
-							<service-density>0.0620035</service-density>
+							<service>0.0161127</service>
+							<service-density>0.0619668</service-density>
 						</building-service-input>
 						<building-service-input name="resid urban cooking">
 							<service>0.0127706</service>
-							<service-density>0.0491135</service-density>
+							<service-density>0.0491136</service-density>
 						</building-service-input>
 						<thermal-building-service-input name="resid urban coolers">
 							<service>0.00104525</service>
@@ -116158,13 +116158,13 @@
 						</thermal-building-service-input>
 						<thermal-building-service-input name="resid urban cooling">
 							<service>0.0151297</service>
-							<service-density>0.0581865</service-density>
+							<service-density>0.0581866</service-density>
 							<coefficient>0.000688614</coefficient>
 							<internal-gains-scalar>3</internal-gains-scalar>
 							<degree-days>177</degree-days>
 						</thermal-building-service-input>
 						<building-service-input name="resid urban lighting">
-							<service>0.0897151</service>
+							<service>0.0897152</service>
 							<service-density>0.34503</service-density>
 						</building-service-input>
 						<thermal-building-service-input name="resid urban space heating">
@@ -116217,18 +116217,18 @@
 					<Sigma2>0</Sigma2>
 					<coefficient>0</coefficient>
 					<demandCurrency>0.254474</demandCurrency>
-					<pricePaid>0.525866</pricePaid>
+					<pricePaid>0.525965</pricePaid>
 					<prodDmdFnType>building-function</prodDmdFnType>
 					<building-node-input name="resid rural_building">
 						<building-size>0.487549</building-size>
 						<price-exponent>0</price-exponent>
 						<shell-conductance>1.419</shell-conductance>
 						<floor-to-surface-ratio>5.5</floor-to-surface-ratio>
-						<price>0.525866</price>
+						<price>0.525965</price>
 						<prodDmdFnType>building-service-function</prodDmdFnType>
 						<building-service-input name="resid rural apploth">
-							<service>0.00995396</service>
-							<service-density>0.0204163</service-density>
+							<service>0.00994422</service>
+							<service-density>0.0203963</service-density>
 						</building-service-input>
 						<building-service-input name="resid rural cooking">
 							<service>0.0683384</service>
@@ -116236,25 +116236,25 @@
 						</building-service-input>
 						<thermal-building-service-input name="resid rural coolers">
 							<service>0.000123987</service>
-							<service-density>0.000254307</service-density>
+							<service-density>0.000254308</service-density>
 							<coefficient>0.000688811</coefficient>
 							<internal-gains-scalar>3</internal-gains-scalar>
 							<degree-days>177</degree-days>
 						</thermal-building-service-input>
 						<thermal-building-service-input name="resid rural cooling">
 							<service>0.00123235</service>
-							<service-density>0.00252763</service-density>
+							<service-density>0.00252764</service-density>
 							<coefficient>0.000688811</coefficient>
 							<internal-gains-scalar>3</internal-gains-scalar>
 							<degree-days>177</degree-days>
 						</thermal-building-service-input>
 						<building-service-input name="resid rural lighting">
-							<service>0.0589458</service>
+							<service>0.0589459</service>
 							<service-density>0.120902</service-density>
 						</building-service-input>
 						<thermal-building-service-input name="resid rural space heating">
 							<service>0.000457949</service>
-							<service-density>0.000939288</service-density>
+							<service-density>0.000939289</service-density>
 							<coefficient>2.52181e-06</coefficient>
 							<internal-gains-scalar>-6830</internal-gains-scalar>
 							<degree-days>48436</degree-days>
