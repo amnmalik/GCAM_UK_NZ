@@ -20,34 +20,28 @@ Didn't find builder for profit rate in a specified land use region query going t
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 About to perform query: collection()/singleQueryListCache/cache[@id=118729936]/text()
-Time : 0
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=-1209976151]/text()
-Time : 0
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=1402312530]/text()
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-966108851]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=1614711303]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-985986238]/text()
-Time : 0
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=452385122]/text()
 Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=1098400260]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=481761702]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1598580780]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1767363069]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1767363069]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-376810757]/text()
-Time : 0
-Before Function: 1725947996054
-About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T11:17:12+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='building' or (exists(child::keyword[@final-energy='building'])))]/
+Before Function: 1725958681307
+About to perform query: collection()/scenario[ (@name='Suppy 2020 cc refined ' and @date='2024-10-9T14:13:01+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='building' or (exists(child::keyword[@final-energy='building'])))]/
                *[@type='subsector']//*[@type='input' (:collapse:)]/demand-physical/node()
-In Function: 1725947996054
-After build Tree: 1725947996070
-After Add table: 1725947996086
-Caught the window closing
-Doing remove because of control
+In Function: 1725958681307
+After build Tree: 1725958681331
+After Add table: 1725958681331
