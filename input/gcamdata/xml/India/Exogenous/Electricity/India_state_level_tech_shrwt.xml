@@ -2157,8 +2157,8 @@
                     <technology name="refined liquids (CC)">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2015" to-year="2020">
-                            <from-value>0.000000000001</from-value>
-                            <to-value>0.000000000001</to-value>
+                            <from-value>0.0000000000002</from-value>
+                            <to-value>0.0000000000002</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         </technology>
