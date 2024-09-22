@@ -180,6 +180,15 @@
 		<!--Value name = "Exo Flrspc">../input/gcamdata/xml/India/Exogenous/Building/Bld_exo_flrspc.xml</Value-->
        <!--Value name = "Bld_tech_Shareweights">../input/gcamdata/xml/India/Exogenous/Building/Building_floorspace_new.xml</Value-->
        <Value name = "Transport_Shareweights_UK">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_UK.xml</Value>
+
+
+<!--Net-zero constraints for GJ-->
+        <!--Value name = "GHG_market_constraints_2035_2060_GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2030_2050_GJ.xml</Value-->        
+         <Value name = "India All States Curved without Land Use ">../input/gcamdata/xml/India/UKNZ/GHG_market_constraints_2040_2070_state_AllIndia_Curved_withoutland.xml</Value>
+        <!--Value name = "India All States Curved without Land Use except GJ">../input/gcamdata/xml/India/GJNZ/GHG_market_constraints_2040_2070_state_AllIndia_except_GJ_Curved_withoutland.xml</Value-->
+        <Value name = "India Land Use -85">../input/gcamdata/xml/India/UKNZ/GHG_market_constraints_India_Landusesystem85.xml</Value>
+        <Value name = "ROW">../input/gcamdata/xml/India/UKNZ/GHG_market_constraints_2040_2080_row_Puneet.xml</Value>
+
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 
 	</ScenarioComponents>
@@ -208,7 +217,7 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">17</Value>
+		<Value name="stop-period">15</Value>
 		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
