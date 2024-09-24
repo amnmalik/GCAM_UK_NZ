@@ -20457,7 +20457,7 @@
                         </interpolation-rule>
                     </technology>
                 </subsector>
-                <subsector name="traditional biomass">
+              <subsector name="traditional biomass">
                     <technology name="traditional biomass">
                         <interpolation-rule apply-to="share-weight"
                             from-year="2010" to-year="2020">
@@ -20466,13 +20466,25 @@
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2020" to-year="2040">
-                            <from-value>1</from-value>
-                            <to-value>0</to-value>
+                            from-year="2020" to-year="2025">
+                            <from-value>0.0083</from-value>
+                            <to-value>0.0083</to-value>
                             <interpolation-function name="linear"/>
+                          </interpolation-rule>
+                          <interpolation-rule apply-to="share-weight"
+                            from-year="2025" to-year="2030">
+                            <from-value>0.0067</from-value>
+                            <to-value>0.0067</to-value>
+                            <interpolation-function name="fixed"/>
                         </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2040" to-year="2100">
+                     <interpolation-rule apply-to="share-weight"
+                            from-year="2030" to-year="2035">
+                            <from-value>0.0050</from-value>
+                            <to-value>0.0050</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                   <interpolation-rule apply-to="share-weight"
+                            from-year="2035" to-year="2040">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
