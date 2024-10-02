@@ -11583,29 +11583,41 @@
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
                             from-year="2025" to-year="2030">
-                            <from-value>0.04</from-value>
-                            <to-value>0.04</to-value>
+                            <from-value>0.1675</from-value>
+                            <to-value>0.1675</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
-                            from-year="2030" to-year="2050">
-                            <from-value>1</from-value>
-                            <to-value>1</to-value>
-                            <interpolation-function name="linear"/>
+                            from-year="2030" to-year="2035">
+                            <from-value>0.334</from-value>
+                            <to-value>0.334</to-value>
+                            <interpolation-function name="fixed"/>
                         </interpolation-rule>
                         <interpolation-rule apply-to="share-weight"
+                            from-year="2035" to-year="2040">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2040" to-year="2045">
+                            <from-value>0.667</from-value>
+                            <to-value>0.667</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                      <interpolation-rule apply-to="share-weight"
                             from-year="2045" to-year="2050">
                             <from-value>1</from-value>
                             <to-value>1</to-value>
-                            <interpolation-function name="fixed"/>
+                            <interpolation-function name="linear"/>
                         </interpolation-rule>
-                        <interpolation-rule apply-to="share-weight"
-                            from-year="2050" to-year="2100">
+                   <interpolation-rule apply-to="share-weight"
+                            from-year="2055" to-year="2100">
                             <from-value>1</from-value>
                             <to-value>1</to-value>
                             <interpolation-function name="linear"/>
                         </interpolation-rule>
-                    </tranTechnology>
+                  </tranTechnology>
                 </tranSubsector>
             </supplysector>
             <supplysector name="trn_pass_road_LDV_2W">
