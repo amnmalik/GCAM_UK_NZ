@@ -22,64 +22,29 @@ Didn't find builder for land leaf shares in a specified land use region query go
 About to perform query: collection()/singleQueryListCache/cache[@id=-966108851]/text()
 Time : 4
 About to perform query: collection()/singleQueryListCache/cache[@id=1614711303]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-985986238]/text()
-Time : 1
-Before Function: 1729066399371
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-16-10T11:02:18+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='building' or (exists(child::keyword[@final-energy='building'])))]//
+Time : 0
+Before Function: 1729076845159
+About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-16-10T16:29:12+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='building' or (exists(child::keyword[@final-energy='building'])))]//
                *[@type='input' (:collapse:)]/demand-physical/node()
-In Function: 1729066399372
-After build Tree: 1729066399464
-After Add table: 1729066399465
+In Function: 1729076845160
+After build Tree: 1729076845187
+After Add table: 1729076845187
 About to perform query: collection()/singleQueryListCache/cache[@id=452385122]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=1098400260]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=481761702]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1598580780]/text()
 Time : 1
-Before Function: 1729066410530
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-16-10T11:02:18+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='building' or (exists(child::keyword[@final-energy='building'])))]/
+Before Function: 1729076859073
+About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-16-10T16:29:12+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='building' or (exists(child::keyword[@final-energy='building'])))]/
                *[@type='subsector']//*[@type='input' (:collapse:)]/demand-physical/node()
-In Function: 1729066410530
-After build Tree: 1729066410570
-After Add table: 1729066410571
-About to perform query: collection()/singleQueryListCache/cache[@id=1767363069]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1767363069]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-376810757]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-565396381]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1734806933]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=337617068]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1033755225]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1098419434]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-782562353]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1406594184]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1984330026]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1324530875]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-156848969]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-2111477344]/text()
-Time : 1
-Before Function: 1729066450613
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-16-10T11:02:18+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='building' or (exists(child::keyword[@final-energy='building'])))]/
-               *[@type='subsector']/share-weight/text()
-In Function: 1729066450613
-After build Tree: 1729066450636
-After Add table: 1729066450636
+In Function: 1729076859073
+After build Tree: 1729076859091
+After Add table: 1729076859092
 Caught the window closing
-Doing remove because of control
 Doing remove because of control
 Doing remove because of control
