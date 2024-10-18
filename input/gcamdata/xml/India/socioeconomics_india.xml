@@ -3978,7 +3978,7 @@
                     <totalPop>13058</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2045">
-                    <totalPop>13805</totalPop>
+                    <totalPop>13437</totalPop>
                 </populationMiniCAM>
                 <populationMiniCAM year="2050">
                     <totalPop>14090</totalPop>
@@ -4047,12 +4047,12 @@
                 <laborproductivity year="2030">0.05265</laborproductivity>
                 <laborproductivity year="2035">0.04767</laborproductivity>
                 <laborproductivity year="2040">0.04010</laborproductivity>
-                <laborproductivity year="2045">0.04610</laborproductivity>
-                <laborproductivity year="2050">0.04190</laborproductivity>
+                <laborproductivity year="2045">0.05177</laborproductivity>
+                <laborproductivity year="2050">0.03628</laborproductivity>
                 <laborproductivity year="2055">0.04760</laborproductivity>
                 <laborproductivity year="2060">0.02830</laborproductivity>
                 <laborproductivity year="2065">0.03168</laborproductivity>
-                <laborproductivity year="2070">0.03360</laborproductivity>
+                <laborproductivity year="2070">0.03361</laborproductivity>
                 <laborproductivity year="2075">0.033459999</laborproductivity>
                 <laborproductivity year="2080">0.03244</laborproductivity>
                 <laborproductivity year="2085">0.03189</laborproductivity>
