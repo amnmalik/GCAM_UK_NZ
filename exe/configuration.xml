@@ -138,7 +138,11 @@
         <!--Value name = "Elec_inttechCCNEW">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_inttech_CC_ChangedCCforNothernGrid.xml</Value-->  
  		<Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_stubtech_backup.xml</Value>    
  		<Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_TechEff_elec.xml</Value> 
- 		<Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_elec_costs_correction.xml</Value>    
+ 		<Value name = "Elec_inttechOMvar">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_elec_costs_correction.xml</Value>   
+ 
+         <Value name = "Elec_inttech_CC_rooftop">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_inttech_CC_rooftop_UK.xml</Value>
+         <Value name = "Elec_inttechOMvar_CF_rooftop">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_inttech_CF_rooftop_UK.xml</Value>
+         
 
  		<!--Value name = "Elec_Grid_weight">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_grid_shrwt.xml</Value-->
         <Value name = "Elec_Grid_weight_V2">../input/gcamdata/xml/India/Exogenous/Electricity/India_state_level_grid_shrwt_V2.xml</Value>

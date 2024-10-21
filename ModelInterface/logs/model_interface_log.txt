@@ -20,110 +20,83 @@ Didn't find builder for profit rate in a specified land use region query going t
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 About to perform query: collection()/singleQueryListCache/cache[@id=1711407739]/text()
-Time : 6
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
-Time : 1
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
-Time : 1
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=1406594184]/text()
-Time : 2
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=143289648]/text()
-Time : 2
-Before Function: 1729442363758
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+Time : 0
+Before Function: 1729500065373
+About to perform query: collection()/scenario[ (@name='rooftop check' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
                *[@type='input' (:collapse:) and not (@name='renewable')]/
                demand-physical[@unit='EJ']/node()
-In Function: 1729442363758
-After build Tree: 1729442363828
-After Add table: 1729442363828
+In Function: 1729500065373
+After build Tree: 1729500065456
+After Add table: 1729500065456
 About to perform query: collection()/singleQueryListCache/cache[@id=1557535450]/text()
-Time : 1
-Before Function: 1729442370944
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+Time : 0
+Before Function: 1729500072366
+About to perform query: collection()/scenario[ (@name='rooftop check' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
                *[@type='input' (:collapse:) and not (@name='renewable')]/demand-physical[@unit='EJ']/node()
-In Function: 1729442370945
-After build Tree: 1729442370981
-After Add table: 1729442370981
-About to perform query: collection()/singleQueryListCache/cache[@id=-1013073716]/text()
-Time : 2
-Before Function: 1729442387575
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
-               *[@type='input' and not (@name='renewable')]/demand-physical[@unit='EJ']/node()
-In Function: 1729442387576
-After build Tree: 1729442387601
-After Add table: 1729442387601
+In Function: 1729500072366
+After build Tree: 1729500072385
+After Add table: 1729500072385
+Before Function: 1729500088895
+About to perform query: collection()/scenario[ (@name='Final  BAU  2070' and @date='2024-18-9T08:38:08+05:30') or (@name='rooftop check' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+               *[@type='input' (:collapse:) and not (@name='renewable')]/
+               demand-physical[@unit='EJ']/node()
+In Function: 1729500088895
+After build Tree: 1729500088962
+After Add table: 1729500088962
 About to perform query: collection()/singleQueryListCache/cache[@id=-1895300858]/text()
-Time : 2
-Before Function: 1729442399269
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+Time : 0
+Before Function: 1729500106245
+About to perform query: collection()/scenario[ (@name='rooftop check' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
                *[@type='subsector']//*[@type='input' and not (@name='renewable')]/
                demand-physical[@unit='EJ']/node()
-In Function: 1729442399270
-After build Tree: 1729442399291
-After Add table: 1729442399302
+In Function: 1729500106245
+After build Tree: 1729500106263
+After Add table: 1729500106263
 About to perform query: collection()/singleQueryListCache/cache[@id=1969764723]/text()
-Time : 1
-Before Function: 1729442467160
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
-               *[@type='subsector']/*[@type='technology']/*[@type='input' and not(@name='renewable')]/
-               demand-physical[@unit='EJ']/node()
-In Function: 1729442467161
-After build Tree: 1729442467185
-After Add table: 1729442467185
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=163235866]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-693796600]/text()
-Time : 1
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=-1421281580]/text()
-Time : 2
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=593830562]/text()
-Time : 1
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=-219701489]/text()
-Time : 1
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=-219701489]/text()
 Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=791443717]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=706405479]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=183005893]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-166897130]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1394635668]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=845345812]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-1607651783]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-2101043606]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-331555363]/text()
-Time : 2
-Before Function: 1729442496697
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector']/share-weight/text()
-In Function: 1729442496697
-After build Tree: 1729442496713
-After Add table: 1729442496713
-Before Function: 1729442511324
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='TN') or (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector']/share-weight/text()
-In Function: 1729442511325
-After build Tree: 1729442511388
-After Add table: 1729442511388
-About to perform query: collection()/singleQueryListCache/cache[@id=-1031600442]/text()
-Time : 2
-Before Function: 1729445234427
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='TN') or (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
-In Function: 1729445234427
-After build Tree: 1729445234464
-After Add table: 1729445234465
-Before Function: 1729486851173
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='TN') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
-In Function: 1729486851176
-After build Tree: 1729486851285
-After Add table: 1729486851286
-Before Function: 1729486900114
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
-In Function: 1729486900115
-After build Tree: 1729486900183
-After Add table: 1729486900183
+About to perform query: collection()/singleQueryListCache/cache[@id=706405479]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=183005893]/text()
+Time : 0
+Before Function: 1729500157312
+About to perform query: collection()/scenario[ (@name='rooftop check' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='delivered gas' or @name='delivered coal' or @name='elect_td_trn'
+               or @name='refined liquids enduse' or @name='H2 enduse')]/cost/text()
+In Function: 1729500157312
+After build Tree: 1729500157312
+After Add table: 1729500157312
+About to perform query: collection()/singleQueryListCache/cache[@id=-166897130]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1394635668]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=845345812]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1607651783]/text()
+Time : 0
+Before Function: 1729500165181
+About to perform query: collection()/scenario[ (@name='rooftop check' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector' ]/*[@type='technology']/cost/text()
+In Function: 1729500165181
+After build Tree: 1729500165198
+After Add table: 1729500165198
