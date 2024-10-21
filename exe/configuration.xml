@@ -180,7 +180,7 @@
 		<!--Value name = "Exo Flrspc">../input/gcamdata/xml/India/Exogenous/Building/Bld_exo_flrspc.xml</Value-->
        <!--Value name = "Bld_tech_Shareweights">../input/gcamdata/xml/India/Exogenous/Building/Building_floorspace_new.xml</Value-->
        <Value name = "Transport_Shareweights_UK">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_subsector_share-weights_UK.xml</Value>
-      
+       <Value name = "Transport_Shareweights_UK">../input/gcamdata/xml/India/Exogenous/Transportation/India_states_transport_share-weights_tech_UK.xml</Value>
        <!--Value name = "Rooftoptest">../input/gcamdata/xml/India/Exogenous/RT/India_state_inttech_CC_RT_now .xml</Value-->
         <!--Value name = "Rooftoptest">../input/gcamdata/xml/India/Exogenous/RT/India_state_inttech_OMfixedvar_res_com.xml</Value-->
 
@@ -195,7 +195,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName"> BAU_rural_cooking</Value>
+		<Value name="scenarioName"> BAU</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>

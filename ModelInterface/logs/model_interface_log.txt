@@ -20,143 +20,110 @@ Didn't find builder for profit rate in a specified land use region query going t
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 About to perform query: collection()/singleQueryListCache/cache[@id=1711407739]/text()
-Time : 0
+Time : 6
 About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=1406594184]/text()
-Time : 0
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=143289648]/text()
-Time : 15
-Before Function: 1729240783936
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-18-10T12:37:05+05:30') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+Time : 2
+Before Function: 1729442363758
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
                *[@type='input' (:collapse:) and not (@name='renewable')]/
                demand-physical[@unit='EJ']/node()
-In Function: 1729240783936
-After build Tree: 1729240784008
-After Add table: 1729240784008
-About to perform query: collection()/singleQueryListCache/cache[@id=-990943148]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1412775210]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1645954451]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-587952207]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=191049335]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1184510380]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1374399501]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-472996853]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=694539216]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-543812259]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1289358749]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=416655117]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1402312530]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=118729936]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1209976151]/text()
-Time : 16
-About to perform query: collection()/singleQueryListCache/cache[@id=-1785151484]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-638751883]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=282351080]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-740614321]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1014615111]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1014615111]/text()
-Time : 16
-About to perform query: collection()/singleQueryListCache/cache[@id=1386213466]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1888165601]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1762434599]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1968388287]/text()
+In Function: 1729442363758
+After build Tree: 1729442363828
+After Add table: 1729442363828
+About to perform query: collection()/singleQueryListCache/cache[@id=1557535450]/text()
 Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=948733666]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-2088989805]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-724558790]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=822982727]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-900020957]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-2090894236]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1736649904]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1289358749]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=416655117]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1719816853]/text()
-Time : 16
-About to perform query: collection()/singleQueryListCache/cache[@id=-1579742359]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1479729975]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=1035466787]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1707077238]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-945885288]/text()
+Before Function: 1729442370944
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+               *[@type='input' (:collapse:) and not (@name='renewable')]/demand-physical[@unit='EJ']/node()
+In Function: 1729442370945
+After build Tree: 1729442370981
+After Add table: 1729442370981
+About to perform query: collection()/singleQueryListCache/cache[@id=-1013073716]/text()
 Time : 2
-Before Function: 1729240811265
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-18-10T12:37:05+05:30') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:)]//CO2/emissions/node()
-In Function: 1729240811265
-After build Tree: 1729240811407
-After Add table: 1729240811407
-About to perform query: collection()/singleQueryListCache/cache[@id=-310400712]/text()
+Before Function: 1729442387575
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+               *[@type='input' and not (@name='renewable')]/demand-physical[@unit='EJ']/node()
+In Function: 1729442387576
+After build Tree: 1729442387601
+After Add table: 1729442387601
+About to perform query: collection()/singleQueryListCache/cache[@id=-1895300858]/text()
+Time : 2
+Before Function: 1729442399269
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']//*[@type='input' and not (@name='renewable')]/
+               demand-physical[@unit='EJ']/node()
+In Function: 1729442399270
+After build Tree: 1729442399291
+After Add table: 1729442399302
+About to perform query: collection()/singleQueryListCache/cache[@id=1969764723]/text()
+Time : 1
+Before Function: 1729442467160
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
+               *[@type='subsector']/*[@type='technology']/*[@type='input' and not(@name='renewable')]/
+               demand-physical[@unit='EJ']/node()
+In Function: 1729442467161
+After build Tree: 1729442467185
+After Add table: 1729442467185
+About to perform query: collection()/singleQueryListCache/cache[@id=163235866]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-693796600]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-1421281580]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=593830562]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-219701489]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-219701489]/text()
 Time : 0
-Before Function: 1729240821041
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-18-10T12:37:05+05:30') ]/world/region[ (@name='UK') ]/*[@type='sector']//CO2/emissions/node()
-In Function: 1729240821042
-After build Tree: 1729240821106
-After Add table: 1729240821106
-About to perform query: collection()/singleQueryListCache/cache[@id=1907372754]/text()
-Time : 16
-About to perform query: collection()/singleQueryListCache/cache[@id=-1920183190]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=791443717]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=706405479]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=183005893]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-166897130]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-1394635668]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=845345812]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=-1607651783]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-2101043606]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-386855504]/text()
-Time : 0
-Before Function: 1729240830723
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-18-10T12:37:05+05:30') ]/world/region[ (@name='UK') ]/*[@type = 'sector' ]/*[@type='subsector']//CO2/emissions/node()
-In Function: 1729240830723
-After build Tree: 1729240830762
-After Add table: 1729240830762
-About to perform query: collection()/singleQueryListCache/cache[@id=2138411424]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1925590025]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1849958245]/text()
-Time : 0
-Removing : BAU_rural_cooking1016235244
-Removing : BAU_rural_cooking1017102806
-Removing : BAU_rural_cooking1017113131
-Removing : BAU_rural_cooking1017125553
-Removing : BAU_rural_cooking1017140120
-Removing : BAU_rural_cooking1017162313
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Before Function: 1729240871356
-About to perform query: collection()/scenario[ (@name=' BAU_rural_cooking' and @date='2024-18-10T12:37:05+05:30') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
-               *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
-               physical-output/node()
-In Function: 1729240871359
-After build Tree: 1729240871377
-After Add table: 1729240871377
+About to perform query: collection()/singleQueryListCache/cache[@id=-331555363]/text()
+Time : 2
+Before Function: 1729442496697
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector']/share-weight/text()
+In Function: 1729442496697
+After build Tree: 1729442496713
+After Add table: 1729442496713
+Before Function: 1729442511324
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='TN') or (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector']/share-weight/text()
+In Function: 1729442511325
+After build Tree: 1729442511388
+After Add table: 1729442511388
+About to perform query: collection()/singleQueryListCache/cache[@id=-1031600442]/text()
+Time : 2
+Before Function: 1729445234427
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='TN') or (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
+In Function: 1729445234427
+After build Tree: 1729445234464
+After Add table: 1729445234465
+Before Function: 1729486851173
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='TN') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
+In Function: 1729486851176
+After build Tree: 1729486851285
+After Add table: 1729486851286
+Before Function: 1729486900114
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-20-10T18:03:00+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
+In Function: 1729486900115
+After build Tree: 1729486900183
+After Add table: 1729486900183
