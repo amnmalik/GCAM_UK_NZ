@@ -11718,7 +11718,7 @@
                     <techChange fillout="1" year="2055">0.0149</techChange>
                     <techChange fillout="1" year="2070">0.0056</techChange>
                     <techChange fillout="1" year="2085">0.004</techChange>
-                    <maxSubResource fillout="1" year="1975">0.00249122856348</maxSubResource>
+                    <maxSubResource fillout="1" year="1975">0.04</maxSubResource>
                     <mid-price>44.8475129906372</mid-price>
                     <curve-exponent>1.00004274704724</curve-exponent>
                     <gdpSupplyElast>0.1</gdpSupplyElast>

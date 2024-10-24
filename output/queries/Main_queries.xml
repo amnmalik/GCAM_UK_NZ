@@ -502,8 +502,8 @@ local:generate-sector-input-coefs(remove($outputNameQueue, 1), $currTree, $coefs
                     <axis1 name="subsector">subsector</axis1>
                     <axis2 name="Year">physical-output[@vintage]</axis2>
                     <xPath buildList="true" dataName="output"
-                        group="false" sumAll="false">*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
-               *[@type='subsector' and not (@name='elect_td_bld')]//*[@type='output']/
+                        group="false" sumAll="false">*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_res' or @name= 'elect_td_com')]/
+               *[@type='subsector' and not (@name='elect_td_res') and not(@name = 'elect_td_com')]//*[@type='output']/
                physical-output/node()</xPath>
                     <comments/>
                 </supplyDemandQuery>
@@ -1036,8 +1036,10 @@ local:generate-sector-input-coefs(remove($outputNameQueue, 1), $currTree, $coefs
                     <axis1 name="subsector">subsector</axis1>
                     <axis2 name="Year">cost</axis2>
                     <xPath buildList="true" dataName="cost"
-                        group="false" sumAll="false">*[@type='sector' and (@name='electricity')]/*[@type='subsector']/cost/text()</xPath>
-                    <comments>doesn't include rooftop PV</comments>
+                        group="false" sumAll="false">*[@type='sector' and (@name='electricity' or @name='elect_td_res' or @name= 'elect_td_com')]/*[@type='subsector'and not (@name='elect_td_res') and not(@name = 'elect_td_com')]/cost/text()</xPath>
+                    <comments>*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_res' or @name= 'elect_td_com')]/
+               *[@type='subsector' and not (@name='elect_td_res') and not(@name = 'elect_td_com')]//*[@type='output']/
+               physical-output/node()</comments>
                 </supplyDemandQuery>
                 <supplyDemandQuery title="elec gen costs by tech">
                     <axis1 name="technology">technology</axis1>
