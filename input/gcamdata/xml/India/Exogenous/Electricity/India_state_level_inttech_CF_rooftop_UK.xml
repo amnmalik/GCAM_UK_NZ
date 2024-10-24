@@ -6,34 +6,34 @@
                  <subsector name="rooftop_pv">
                     <intermittent-technology name="rooftop_pv">
                         <period year="2025">
-                            <capacity-factor>0.18</capacity-factor>
+                            <capacity-factor>0.12</capacity-factor>
                         </period>
                         <period year="2030">
-                            <capacity-factor>0.19</capacity-factor>
+                            <capacity-factor>0.12</capacity-factor>
                         </period>
                         <period year="2035">
-                            <capacity-factor>0.19</capacity-factor>
+                            <capacity-factor>0.13</capacity-factor>
                         </period>
                         <period year="2040">
-                            <capacity-factor>0.2</capacity-factor>
+                            <capacity-factor>0.13</capacity-factor>
                         </period>
                         <period year="2045">
-                            <capacity-factor>0.21</capacity-factor>
+                            <capacity-factor>0.13</capacity-factor>
                         </period>
                         <period year="2050">
-                            <capacity-factor>0.22</capacity-factor>
+                            <capacity-factor>0.14</capacity-factor>
                         </period>
                         <period year="2055">
-                            <capacity-factor>0.22</capacity-factor>
+                            <capacity-factor>0.14</capacity-factor>
                         </period>
                         <period year="2060">
-                            <capacity-factor>0.23</capacity-factor>
+                            <capacity-factor>0.14</capacity-factor>
                         </period>
                         <period year="2065">
-                            <capacity-factor>0.23</capacity-factor>
+                            <capacity-factor>0.15</capacity-factor>
                         </period>
                         <period year="2070">
-                            <capacity-factor>0.24</capacity-factor>
+                            <capacity-factor>0.15</capacity-factor>
                         </period>
                         <period year="2075">
                             <capacity-factor>0.24</capacity-factor>
@@ -60,34 +60,34 @@
                  <subsector name="rooftop_pv">
                     <intermittent-technology name="rooftop_pv">
                         <period year="2025">
-                            <capacity-factor>0.18</capacity-factor>
+                            <capacity-factor>0.12</capacity-factor>
                         </period>
                         <period year="2030">
-                            <capacity-factor>0.19</capacity-factor>
+                            <capacity-factor>0.12</capacity-factor>
                         </period>
                         <period year="2035">
-                            <capacity-factor>0.19</capacity-factor>
+                            <capacity-factor>0.12</capacity-factor>
                         </period>
                         <period year="2040">
-                            <capacity-factor>0.2</capacity-factor>
+                            <capacity-factor>0.13</capacity-factor>
                         </period>
                         <period year="2045">
-                            <capacity-factor>0.21</capacity-factor>
+                            <capacity-factor>0.13</capacity-factor>
                         </period>
                         <period year="2050">
-                            <capacity-factor>0.22</capacity-factor>
+                            <capacity-factor>0.13</capacity-factor>
                         </period>
                         <period year="2055">
-                            <capacity-factor>0.22</capacity-factor>
+                            <capacity-factor>0.13</capacity-factor>
                         </period>
                         <period year="2060">
-                            <capacity-factor>0.23</capacity-factor>
+                            <capacity-factor>0.14</capacity-factor>
                         </period>
                         <period year="2065">
-                            <capacity-factor>0.23</capacity-factor>
+                            <capacity-factor>0.15</capacity-factor>
                         </period>
                         <period year="2070">
-                            <capacity-factor>0.24</capacity-factor>
+                            <capacity-factor>0.15</capacity-factor>
                         </period>
                         <period year="2075">
                             <capacity-factor>0.24</capacity-factor>

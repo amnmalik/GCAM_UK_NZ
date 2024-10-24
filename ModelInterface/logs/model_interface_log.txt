@@ -20,125 +20,102 @@ Didn't find builder for profit rate in a specified land use region query going t
 Didn't find builder for land leaf shares query going to use defaults
 Didn't find builder for land leaf shares in a specified land use region query going to use defaults
 About to perform query: collection()/singleQueryListCache/cache[@id=1711407739]/text()
-Time : 5
+Time : 8
 About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
 Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=-789746245]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=1406594184]/text()
-Time : 1
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=143289648]/text()
-Time : 1
-Before Function: 1729744391509
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T16:29:58+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=1557535450]/text()
+Time : 2
+Before Function: 1729748574050
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
                *[@type='input' (:collapse:) and not (@name='renewable')]/
                demand-physical[@unit='EJ']/node()
-In Function: 1729744391510
-After build Tree: 1729744391584
-After Add table: 1729744391584
-About to perform query: collection()/singleQueryListCache/cache[@id=1557535450]/text()
-Time : 1
-Before Function: 1729744400556
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T16:29:58+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
-               *[@type='input' (:collapse:) and not (@name='renewable')]/demand-physical[@unit='EJ']/node()
-In Function: 1729744400557
-After build Tree: 1729744400633
-After Add table: 1729744400634
+In Function: 1729748574051
+After build Tree: 1729748574084
+After Add table: 1729748574084
+Before Function: 1729748579522
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T14:56:55+05:30') or (@name=' BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+               *[@type='input' (:collapse:) and not (@name='renewable')]/
+               demand-physical[@unit='EJ']/node()
+In Function: 1729748579524
+After build Tree: 1729748579602
+After Add table: 1729748579602
+About to perform query: collection()/scenario[@date='2024-24-10T10:11:06+06:030' and @name=' BAU']/@name
+About to perform query: collection()/scenario
+Before Function: 1729748625936
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T14:56:55+05:30') or (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+               *[@type='input' (:collapse:) and not (@name='renewable')]/
+               demand-physical[@unit='EJ']/node()
+In Function: 1729748625938
+After build Tree: 1729748625995
+After Add table: 1729748625995
 About to perform query: collection()/singleQueryListCache/cache[@id=-1013073716]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1895300858]/text()
 Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1969764723]/text()
-Time : 1
-Before Function: 1729744410505
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T16:29:58+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/
-               *[@type='subsector']//*[@type='input' and not (@name='renewable')]/
-               demand-physical[@unit='EJ']/node()
-In Function: 1729744410506
-After build Tree: 1729744410565
-After Add table: 1729744410565
-About to perform query: collection()/singleQueryListCache/cache[@id=163235866]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-693796600]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-1421281580]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=593830562]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-219701489]/text()
-Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=-219701489]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=791443717]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=706405479]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=183005893]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-166897130]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1394635668]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=845345812]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-1607651783]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-2101043606]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=2071891952]/text()
-Time : 2
+Before Function: 1729748640806
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T14:56:55+05:30') or (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]//
+               *[@type='input' and not (@name='renewable')]/demand-physical[@unit='EJ']/node()
+In Function: 1729748640807
+After build Tree: 1729748640838
+After Add table: 1729748640838
 About to perform query: collection()/singleQueryListCache/cache[@id=-990943148]/text()
 Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=1412775210]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1645954451]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-587952207]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=191049335]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=1184510380]/text()
-Time : 9
-About to perform query: collection()/singleQueryListCache/cache[@id=-1374399501]/text()
-Time : 1
-About to perform query: collection()/singleQueryListCache/cache[@id=-472996853]/text()
 Time : 0
-About to perform query: collection()/singleQueryListCache/cache[@id=694539216]/text()
+About to perform query: collection()/singleQueryListCache/cache[@id=1645954451]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-587952207]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=191049335]/text()
 Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=1184510380]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-1374399501]/text()
+Time : 0
+About to perform query: collection()/singleQueryListCache/cache[@id=-472996853]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=694539216]/text()
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-543812259]/text()
 Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=1289358749]/text()
-Time : 1
+Time : 0
 About to perform query: collection()/singleQueryListCache/cache[@id=416655117]/text()
-Time : 1
+Time : 3
 About to perform query: collection()/singleQueryListCache/cache[@id=1402312530]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=1575073462]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1209976151]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1785151484]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-638751883]/text()
 Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-638751883]/text()
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=282351080]/text()
 Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=-740614321]/text()
-Time : 2
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1014615111]/text()
-Time : 2
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1014615111]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=1386213466]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=2084291745]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=-1762434599]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=1968388287]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=948733666]/text()
-Time : 0
+Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-2088989805]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-724558790]/text()
@@ -146,11 +123,11 @@ Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=822982727]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-900020957]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=-2090894236]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=-1736649904]/text()
-Time : 1
+Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=1289358749]/text()
 Time : 2
 About to perform query: collection()/singleQueryListCache/cache[@id=416655117]/text()
@@ -164,24 +141,199 @@ Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=1035466787]/text()
 Time : 1
 About to perform query: collection()/singleQueryListCache/cache[@id=-1707077238]/text()
-Time : 2
-About to perform query: collection()/singleQueryListCache/cache[@id=-945885288]/text()
-Time : 0
-Before Function: 1729744638088
-About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T16:29:58+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:)]//CO2/emissions/node()
-In Function: 1729744638089
-After build Tree: 1729744638129
-After Add table: 1729744638129
-About to perform query: collection()/singleQueryListCache/cache[@id=-310400712]/text()
 Time : 1
-Removing : BAU1023162958
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Removing : BAU1020180300
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Caught the window closing
-Doing remove because of control
-Doing remove because of control
-Doing remove because of control
-Doing remove because of control
+About to perform query: collection()/singleQueryListCache/cache[@id=-945885288]/text()
+Time : 1
+Before Function: 1729748678528
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T14:56:55+05:30') or (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:)]//CO2/emissions/node()
+In Function: 1729748678529
+After build Tree: 1729748678606
+After Add table: 1729748678607
+About to perform query: collection()/singleQueryListCache/cache[@id=-310400712]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=1907372754]/text()
+Time : 1
+About to perform query: collection()/singleQueryListCache/cache[@id=-1920183190]/text()
+Time : 1
+Before Function: 1729748703605
+About to perform query:  
+               declare function local:append-heirarchy($parent as node(), $append as node()*) as node() {
+	       	 		 let $scn := $parent/ancestor::scenario,
+	       			   	  $rgn := $parent (: /ancestor::region :)
+	       			   return
+	       			   	  document { element scenario {
+	       			 	  					$scn/@*,
+	       			 						element region {
+	       			 							$rgn/@*,
+	       			 							$append
+	       			 						}
+	       			 	  				}
+	       				}
+	       	 		 (: I can get by with just the scenario and region
+	       			 let $new_node := element {local-name($parent)} {$parent/@*, $append} 	
+	       	 		 return
+	       	 		 if(local-name($parent) != 'scenario')
+	       	 		 then local:append-heirarchy($parent/parent::*, $new_node)
+	       	 		 else document { $new_node } :)
+	       	 	 }; 
+	       	 	 declare function local:generate-sector-output-coefs($inputNameQueue as xs:string*, $currTree as node(), $coefs as node()*, $is_usa as xs:boolean) as node()* {
+                 if(empty($inputNameQueue)) then $coefs
+                 else if( exists($coefs[@name = $inputNameQueue[1]]) or exists(index-of(('unconventional oil production', "electricity", "cement", "N fertilizer"),
+$inputNameQueue[1])) or not($currTree/*[@type='sector' and @name=$inputNameQueue[1]]))
+then 
+local:generate-sector-output-coefs(remove($inputNameQueue, 1), $currTree, $coefs, $is_usa)
+	       				else
+                    let $inputName := $inputNameQueue[1],
+                        $newInputNameQueue := remove($inputNameQueue, 1),
+                        $useInputs := $currTree//*[@type='input' and @name=$inputName],
+                        $useSectors := distinct-values($useInputs/ancestor::*[@type='sector']/@name),
+                        $totalInputSum := for $vintage in distinct-values($useInputs/demand-physical/@vintage)
+                                          return element input {
+                                                     attribute vintage { $vintage },
+                                                     text {
+                                                         sum($useInputs/demand-physical[@vintage=$vintage])
+                                                     }
+                                                 },
+                       $new_coefs := if(empty($useSectors)) then
+                                         $coefs
+                                     else
+                                         $coefs | element sector {
+                                            attribute name { $inputName },
+                                            for $output in $useSectors
+                                            return element output {
+                                                       attribute name { $output },
+                                                       for $inputSum in $totalInputSum
+                                                       let $outputSum := sum($useInputs[ancestor::*[@type='sector' and @name=$output]]/demand-physical[@vintage=$inputSum/@vintage])
+                                                       return element coef {
+                                                                  attribute vintage { $inputSum/@vintage },
+                                                                  text { $outputSum div $inputSum }
+                                                              }
+                                                    }
+                                        }
+                        return 
+                              local:generate-sector-output-coefs(distinct-values(($newInputNameQueue, $useSectors)), $currTree, $new_coefs, $is_usa)
+		};
+        declare function local:apply-coefs($outputName as xs:string, $emissions as node()*, $coefs as node()*) as node()* {
+            if(exists($coefs[@name=$outputName]) and abs(sum($emissions)) > 0.001) then
+                for $output in $coefs[@name=$outputName]/output
+                return local:apply-coefs($output/@name,
+                    for $year in distinct-values($emissions/@year)
+                    let $emissThisVintage := $emissions[@year=$year],
+                        $firstEmiss := $emissThisVintage[1],
+                        $emissSum := sum($emissThisVintage),
+                        $coefThisVintage := $output/coef[@vintage=$year]
+                    where $coefThisVintage > 0
+                    return element { local-name($firstEmiss) } {
+                            $firstEmiss/@*,
+                            text{ $emissSum * $coefThisVintage }
+                        }
+	       			, $coefs)
+            else if( abs(sum($emissions)) > 0.001) then
+                element sector {
+                    attribute name { $outputName },
+                    attribute type { 'sector' },
+                    (: $emissions :) (: TODO: not sure why this doesn't work and we need to create these explicitly :)
+                    for $e in $emissions
+                    return element emissions { $e/@*, text{ $e/text() } }
+                }
+            else
+                (: These are the residuals from chasing simulenaties, I've left this here
+                   for debuging purposes :)
+                element sector {
+                    attribute name { $outputName },
+                    attribute type { 'sector' }(:,
+                    $emissions:)
+                }
+        };
+		declare function local:run-emiss-by-enduse($scenarios as xs:string*, $regions as xs:string*, $collection as xs:string*) as node()* { 	
+			 	 unordered { 	
+			 	 let $regionsG := if(not($regions[1] = 'Global'))
+			 	 		  then $regions
+			 	 		  else distinct-values(collection($collection)/scenario/world/*[@type='region']/@name)
+			 	 return
+			 	 for $scenario in $scenarios, 	    
+			 	 $region in $regionsG 	
+			 	 let $scenario_split := tokenize($scenario, ' '), 	    
+				 $currTree := collection($collection)/scenario[@name = $scenario_split[1] and @date = $scenario_split[2]]/world/*[@type='region' and @name=$region],
+                 $currEmissSectors := $currTree/*[@type='sector' and descendant::CO2],
+                 $coefs := local:generate-sector-output-coefs(distinct-values($currEmissSectors/@name), $currTree, (), false())
+				 return
+				    for $sectorName in distinct-values($currEmissSectors/@name)
+                    return local:append-heirarchy($currTree, local:apply-coefs($sectorName, $currEmissSectors[@name=$sectorName]//CO2/emissions, $coefs))//text()
+			 	 } 
+	 	 };
+		 local:run-emiss-by-enduse((' BAU 2024-23-10T14:56:55+05:30', ' new_BAU 2024-24-10T10:11:06+06:030'), ('UK'), ())
+               
+               
+In Function: 1729748703610
+About to perform query: collection()/singleQueryListCache/cache[@id=-386855504]/text()
+Time : 2
+About to perform query: collection()/singleQueryListCache/cache[@id=2138411424]/text()
+Time : 1
+Before Function: 1729748708280
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T14:56:55+05:30') or (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type = 'sector' ]/*[@type='subsector']//CO2/emissions/node()
+In Function: 1729748708281
+After build Tree: 1729748708342
+After Add table: 1729748708343
+Before Function: 1729748746097
+About to perform query: collection()/scenario[ (@name=' BAU' and @date='2024-23-10T14:56:55+05:30') or (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type = 'sector' ]/*[@type='subsector']/*[@type='technology']//
+            CO2/emissions/node()
+In Function: 1729748746098
+After build Tree: 1729748746180
+After Add table: 1729748746181
+Before Function: 1729749417051
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:)]//CO2/emissions/node()
+In Function: 1729749417051
+After build Tree: 1729749417084
+After Add table: 1729749417084
+Before Function: 1729749419352
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type = 'sector' ]/*[@type='subsector']//CO2/emissions/node()
+In Function: 1729749419352
+After build Tree: 1729749419387
+After Add table: 1729749419387
+Before Function: 1729749422407
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type = 'sector' ]/*[@type='subsector']/*[@type='technology']//
+            CO2/emissions/node()
+In Function: 1729749422407
+After build Tree: 1729749422444
+After Add table: 1729749422444
+Before Function: 1729749440917
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector']//CO2/emissions/node()
+In Function: 1729749440918
+After build Tree: 1729749440953
+After Add table: 1729749440953
+Before Function: 1729749542854
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type = 'sector' ]/*[@type='subsector']/*[@type='technology']//
+            CO2/emissions/node()
+In Function: 1729749542854
+After build Tree: 1729749542893
+After Add table: 1729749542893
+About to perform query: collection()/singleQueryListCache/cache[@id=-1031600442]/text()
+Time : 0
+Before Function: 1729749632331
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
+In Function: 1729749632331
+After build Tree: 1729749632344
+After Add table: 1729749632345
+Before Function: 1729749969883
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
+In Function: 1729749969883
+After build Tree: 1729749969898
+After Add table: 1729749969898
+About to perform query: collection()/singleQueryListCache/cache[@id=-331555363]/text()
+Time : 1
+Before Function: 1729750195610
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector']/share-weight/text()
+In Function: 1729750195611
+After build Tree: 1729750195624
+After Add table: 1729750195624
+Before Function: 1729750238704
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector' ]/*[@type='technology']/share-weight/node()
+In Function: 1729750238704
+After build Tree: 1729750238720
+After Add table: 1729750238720
+Before Function: 1729750606058
+About to perform query: collection()/scenario[ (@name=' new_BAU' and @date='2024-24-10T10:11:06+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' and (@name='transportation' or (exists(child::keyword[@final-energy='transportation'])))]/*[@type='subsector']/share-weight/text()
+In Function: 1729750606058
+After build Tree: 1729750606067
+After Add table: 1729750606067
