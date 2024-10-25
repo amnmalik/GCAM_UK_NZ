@@ -20509,11 +20509,23 @@
                         </interpolation-rule>
                   <interpolation-rule apply-to="share-weight"
                           from-year="2045" to-year="2050">
+                            <from-value>0.15</from-value>
+                            <to-value>0.15</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                  <interpolation-rule apply-to="share-weight"
+                          from-year="2045" to-year="2050">
+                            <from-value>0.006</from-value>
+                            <to-value>0.006</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                          from-year="2050" to-year="2055">
                             <from-value>0</from-value>
                             <to-value>0</to-value>
                             <interpolation-function name="fixed"/>
                         </interpolation-rule>
-                          </technology>
+                    </technology>
                 </subsector>
             </supplysector>
             <supplysector name="resid urban cooking">

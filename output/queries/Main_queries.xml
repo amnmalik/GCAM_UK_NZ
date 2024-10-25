@@ -1116,8 +1116,8 @@ local:generate-sector-input-coefs(remove($outputNameQueue, 1), $currTree, $coefs
                     <axis1 name="technology">technology</axis1>
                     <axis2 name="Year">technology</axis2>
                     <xPath buildList="true" dataName="share-weight"
-                        group="false" sumAll="false">*[@type='sector' and (@name='electricity' or @name='elect_td_bld')]/
-               *[@type='subsector' and not (@name='elect_td_bld')]/
+                        group="false" sumAll="false">*[@type='sector' and (@name='electricity' or @name='elect_td_com')]/
+               *[@type='subsector' and not (@name='elect_td_com')]/
                *[@type='technology']/share-weight/node()</xPath>
                     <comments/>
                 </supplyDemandQuery>

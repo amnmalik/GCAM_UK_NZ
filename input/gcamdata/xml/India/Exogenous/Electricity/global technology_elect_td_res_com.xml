@@ -17,7 +17,7 @@
                        <share-weight>1</share-weight>                        
                      </period>
                     <period year="2025">
-                       <share-weight>1</share-weight>                        
+                       <share-weight>20</share-weight>                        
                      </period>
                     <period year="2030">
                     <share-weight>1</share-weight>                        
@@ -81,7 +81,7 @@
                     <share-weight>1</share-weight>                        
                     </period>
                     <period year="2025">
-                    <share-weight>1</share-weight>                        
+                    <share-weight>20</share-weight>                        
                     </period>
                     <period year="2030">
                     <share-weight>1</share-weight>                        
