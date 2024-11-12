@@ -30378,7 +30378,7 @@
                         </period>
                         <period year="2025">
                             <minicam-non-energy-input name="tax">
-                                <input-cost>0.00000132</input-cost>
+                                <input-cost>0.000000132</input-cost>
                             </minicam-non-energy-input>
                         </period>
                         <period year="2030">

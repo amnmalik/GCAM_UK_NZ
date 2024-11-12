@@ -199,7 +199,7 @@
 
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName"> BAU</Value>
+		<Value name="scenarioName">Net_Zero</Value>
 		<Value name="debug-region">WB</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -223,8 +223,8 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">8</Value>
-		<Value name="restart-period">5</Value>
+		<Value name="stop-period">15</Value>
+		<Value name="restart-period">-1</Value>
 	</Ints>
 	<Doubles>
 	</Doubles>

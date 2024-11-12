@@ -146,7 +146,7 @@
                     </interpolation-rule>     
 				<interpolation-rule apply-to="share-weight"
                         from-year="2020" to-year="2025">
-                        <from-value>0.01</from-value>
+                        <from-value>0.001</from-value>
                         <to-value>0.001</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
