@@ -10346,6 +10346,12 @@
                         <to-value>0</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
+               <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.7</from-value>
+                        <to-value>0.7</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
                     </subsector>
                    <subsector name="refined liquids">
                     <interpolation-rule apply-to="share-weight"
@@ -10355,6 +10361,14 @@
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
+              <subsector name="electricity">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.5</from-value>
+                        <to-value>0.5</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                    </subsector>
              </supplysector>
             <supplysector name="Iron and Steel_fsuse">
                 <subsector name="coal">
@@ -10473,6 +10487,22 @@
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
                 </subsector>
+            <subsector name="electricity">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.5</from-value>
+                        <to-value>0.5</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                 </subsector>
+             <subsector name="coal">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.7</from-value>
+                        <to-value>0.7</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                 </subsector>
             </supplysector>
             <supplysector name="Chem_Fert_fsuse">
                 <subsector name="hydrogen">
@@ -10652,7 +10682,21 @@
                         <to-value>17</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
-                   </subsector>
+                     <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.5</from-value>
+                        <to-value>0.5</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                        </subsector>
+                       <subsector name="coal">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2020" to-year="2100">
+                        <from-value>0.7</from-value>
+                        <to-value>0.7</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                 </subsector>
             </supplysector>
             <supplysector name="Iron and Steel_enuse">
                 <subsector name="hydrogen">

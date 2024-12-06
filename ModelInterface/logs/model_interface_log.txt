@@ -4,29 +4,5 @@ DOCUMENT REPLACED
 PROPERTY CHANGEdocument-replaced
 DOCUMENT REPLACED
 Going to change controls
-About to perform query: collection()/scenario
-About to perform query: distinct-values(collection()/scenario/world/*[@type = 'region']/@name)
-Didn't find builder for detailed land allocation query going to use defaults
-Didn't find builder for land allocation by crop query going to use defaults
-Didn't find builder for aggregated land allocation query going to use defaults
-Didn't find builder for land allocation in a specified land use region query going to use defaults
-Didn't find builder for land allocation by crop and water source query going to use defaults
-Didn't find builder for LUC emissions by region query going to use defaults
-Didn't find builder for LUC emissions by LUT query going to use defaults
-Didn't find builder for LUC emissions by LUT in a specified land use region query going to use defaults
-Didn't find builder for vegetative carbon stock by region query going to use defaults
-Didn't find builder for profit rate query going to use defaults
-Didn't find builder for profit rate in a specified land use region query going to use defaults
-Didn't find builder for land leaf shares query going to use defaults
-Didn't find builder for land leaf shares in a specified land use region query going to use defaults
-About to perform query: collection()/singleQueryListCache/cache[@id=1575073462]/text()
-Time : 3
-Before Function: 1733215180116
-About to perform query: collection()/scenario[ (@name='Reference_traditional_sw0' and @date='2024-3-12T12:18:27+06:030') ]/world/region[ (@name='UK') ]/*[@type='sector' (:collapse:) and (@name='electricity' or @name='elect_td_res' or @name= 'elect_td_com')]/
-               *[@type='subsector' and not (@name='elect_td_res') and not(@name = 'elect_td_com')]//*[@type='output']/
-               physical-output/node()
-In Function: 1733215180117
-After build Tree: 1733215180144
-After Add table: 1733215180144
+Going to change controls
 Caught the window closing
-Doing remove because of control
