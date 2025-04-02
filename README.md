@@ -1,3 +1,3 @@
-# Uttarakhand Net-Zero modelling results
+# Uttarakhand GCAM model 
 
-Contains .dat files for final runs for Gujarat Net-Zero project. It contains all code and figures used for UK NZ work.
+GCAM version used for the analysis
